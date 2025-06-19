@@ -58,6 +58,9 @@ Definieer de belangrijkste designbeslissingen
 ## Kritische reflectie
 Max. 500 woorden
 
+## Noot inzake het gebruik van AI
+Licht toe op welke manier je AI gebruikte in dit project.
+
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
