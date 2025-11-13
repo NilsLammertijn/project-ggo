@@ -21,7 +21,6 @@ Door in interactie te gaan met ouders met jonge kinderen, zo ben is er te weten 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/11b12a24-6e6c-4ccb-b938-dd118f81bc1b" width="100%">
 </p>
-![foto project](https://github.com/user-attachments/assets/11b12a24-6e6c-4ccb-b938-dd118f81bc1b)
 
 
 ## Introductie
