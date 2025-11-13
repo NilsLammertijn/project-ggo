@@ -70,4 +70,26 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+[^1]: Kind en Gezin. (z.j.). Reizen met kinderen [Webpagina]. Geraadpleegd op 9
+oktober 2025, van https://www.kindengezin.be/nl/thema/reizen-met-kinderen
+
+[^2]: Blabloom. (z.j.). Stil op de achterbank: 9 tips voor een autovakantie met 
+kinderen [Webpagina]. Geraadpleegd op 21 oktober 2025, van 
+https://www.blabloom.com/nl/blog/onderweg/stil-op-de-achterbank-9-
+tips-voor-een-autovakantie-met-kinderen
+
+[^3]: Mic Mac Minuscule. (2023, 22 juni). Hoe overleef ik een autoreis met 
+kleine kinderen? [Webpagina]. Geraadpleegd op 21 oktober 2025, van 
+https://www.micmacminuscule.be/l/hoe-overleef-ik-een-autoreis-metkleine-kinderen/
+
+[^4]: BigSellers. (z.j.). Speelgoed voor in de auto: 24 vakantie cadeautjes voor 
+onderweg [Webpagina]. Geraadpleegd op 21 oktober 2025, van 
+https://bigsellers.nl/gadgets/autovakantie-24-gadgets-om-je-kinderen-tevermaken/
+
+[^5]: Verberkt, I. (2025, 30 juli). Slimme gadgets voor reizen met kleine kinderen
+[Webpagina]. Geraadpleegd op 21 oktober 2025, van 
+https://www.oudersvannu.nl/producten/slimme-gadgets-reizen-metkleine-kinderen~7f0552a
+
+[^6]: OpenAI. (z.j.). ChatGPT – gesprek/sessie [Webpagina]. Geraadpleegd op 28 
+oktober 2025, van https://chatgpt.com/c/68f08c8a-e764-832e-8622-
+69daec67a7e
