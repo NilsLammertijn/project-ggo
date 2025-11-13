@@ -70,6 +70,8 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
+[^1][^2][^3][^4][^5][^6]
+
 [^1]: Kind en Gezin. (z.j.). Reizen met kinderen [Webpagina]. Geraadpleegd op 9
 oktober 2025, van https://www.kindengezin.be/nl/thema/reizen-met-kinderen
 
