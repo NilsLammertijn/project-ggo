@@ -19,9 +19,10 @@ Door in interactie te gaan met ouders met jonge kinderen, zo ben is er te weten 
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image, vb.
 <p align="center">
-  <img src="![20251106_164154](https://github.com/user-attachments/assets/583fae69-8995-456d-bcf7-ae7013d95d99)" width="100%">
+  <img src="https://github.com/user-attachments/assets/11b12a24-6e6c-4ccb-b938-dd118f81bc1b" width="100%">
 </p>
-![20251106_164154](https://github.com/user-attachments/assets/583fae69-8995-456d-bcf7-ae7013d95d99)
+![foto project](https://github.com/user-attachments/assets/11b12a24-6e6c-4ccb-b938-dd118f81bc1b)
+
 
 ## Introductie
 Max 300 woorden.
