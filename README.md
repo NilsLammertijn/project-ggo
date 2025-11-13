@@ -10,9 +10,6 @@
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-Dat kinderen bij lange autoritten hun vervelen en hierdoor beginnen te zagen van 'Hoe lang het nog is?' dit bezorgt ouders stress.
-Door in interactie te gaan met ouders met jonge kinderen, zo ben is er te weten gekomen dat het in het begin wel goed loopt, maar na een tijdje weten de kinderen niet meer wat ze kunnen doen. Ook uit mijn benchmark onderzoek is gebleken dat er vooral oplossingen zijn, die kinderen voor een tijdje kunnen bezig houden, maar dat ze hun niet heel de autorit mee bezig kunnen houden.
-
 Bij lange autoritten kunnen jonge kinderen zich vaak vervelen. Hierbij komt vaak de vraag: 'Hoe lang is het nog?'. Dit kan bij veel ouders stress opleveren. Hier willen we een oplossing voor vinden.
 
 Door middel van interviews is in interactie gegaan met ouders en hun kinderen (2-6 jaar). Hieruit is gebleken dat het begin van de rit meestal goed gaat, maar dat na een tijdje de kinderen niet meer weten wat ze nog kunnen doen. Er is ook aan benchmarking gedaan. Hieruit is gebleken dat er wel oplossingen zijn, maar dat deze de kinderen niet lang genoeg bezig houden. Dit is dan wat uiteindelijk voor stress zorgt bij de ouders.
