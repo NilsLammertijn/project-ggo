@@ -38,14 +38,61 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 5. [Bill of materials](./docs/bom.md)
 
 ## Methodologie
+Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal (1) een tijdsincatie te zien zijn (e.g. maanden of kwartalen), moeten fasen te zien (gekoppeld aan doelstellingen van die fase) zijn en moeten activiteiten te zien zijn (onderzoeksmethoden). Bekijk zeker ook eens voorbeelden van eerdere jaren (voor SEM1 betreft dit uiteraard slechts de helft van deze visualisaties). We boewen hier in het tweede semester op verder.
+Neem hier ook een tijdlijn in op waarin we de evoluties van de prototypes kunnen zien.
 
 ## Discovery
+Max. 1000 woorden.
+[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
+In de discovery fase wordt de probleemstelling in kaart gebracht. Dit gebreud door verschillende methoden, ook wordt er onderzocht welke opslossing er al zijn en waar er verbeteringen kunnen komen op bestaande opslossingen of er iets nieuws moet ontworpen worden.
+Doestellingen
+Wat wilde je bereiken?
+Welke deelvragen moesten hiervoor beantwoord worden?
+De stressfactoren die ouders met jonge kinderen ondervinden in kaart te brengen. Hierbij wordt de een stressfactor genomen als probleemstelling en wordt er naar een oplossing gezocht voor het stressfactor te kunnen wegnemen.
+Materiaal & methoden
+Hoe onderzocht je dit? Wees volledig.
+Leg uit welke onderzoeksmethoden werden uitgevoerd en hoe dit werd aangepakt (link door naar het protocol). Eerst werd een literatuuronderzoek gedaan om meer te weten te komen waar ouders stress ondervinden. Met de ondervindingen die werden een benchmark onderzoek gedaan, om zo meer te weten te komen over producten die al gebruikt worden voor het probleem.
+Met deze zaken in het achterhoofd werden er interviews met de gerbuikers gedaan. Om zo meer inzicht te krijgen over wat er werd gevonden of dit ook klopte. In het begin wordt er nog algemeen gevraagd en daarna werd er verder gevraagd naar de probleemstelling die werd gevonden bij het literatuuronderzoek.
+Resultaten
+Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Conclusies & implicaties
+Definieer de belangrijkste designbeslissingen
 
 ## Defenition
+Max. 1000 woorden.
+[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
+Doestellingen
+Wat wilde je bereiken in deze fase?
+Welke deelvragen moesten hiervoor beantwoord worden?
+Materiaal & methoden
+Hoe onderzocht je dit? Wees volledig.
+Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzoeksvragen te beantwoorden (benoemen wat je aftoetst & link naar design requirements).
+Leg uit welke testen werden uitgevoerd.
+Resultaten
+Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Conclusies & implicaties
+Definieer de belangrijkste designbeslissingen.
 
 ## Design Requirements
 
+# Overzicht van Design Requirements
+
+|ID|Design Requirement|Source|Status|
+|:---|:---|:---|:---:|
+|**discovery**|
+|1.1|req|[user interview](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5Finterview%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)||
+|1.2|req|[literatuuronderzoek](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FLiteratuuronderzoek%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)||
+|1.3|req|[benchmarking](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FBenchmark%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)||
+|**defenition**|
+|2.1|req|[User test wave 1](url)||
+|2.2|req|[User test wave 2](url)||
+|**discover**|
+|3.1|req|[user test wave ](url)||
+
 ## Bill of Materials
+•	Welk materiaal heb je nodig voor de laatste versie van je prototype?
+•	Maak voor componenten een overzicht met links naar aankooppagina en pricing
+•	Wat hebben anderen nodig om dit te maken (zie vb. instructables)?
 
 ## Kritische reflectie
 Max. 500 woorden
