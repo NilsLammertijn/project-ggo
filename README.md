@@ -45,12 +45,15 @@ Licht toe op welke manier je AI gebruikte in dit project.
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
+* Literatuuronderzoek (N=6)
   * [Protocol](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FLiteratuuronderzoek%20protocol%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)
   * [Rapport](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FLiteratuuronderzoek%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)
-* Interviews (N=x)
+* Interviews (N=3)
   * [Protocol](url)
   * [Rapport](url)
+* Benchmarking (N=10)
+  * [protocol](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5Fbenchmark%20protocol%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)
+  * [Rapport](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FBenchmark%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)
     
 ### Definition
 * User testing wave 1 (N=x)
