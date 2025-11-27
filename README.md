@@ -1,5 +1,5 @@
 # Projecttitel
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+Een reistafel om lange autoritten minder stressvol te maken.
 
 🛠️ Built by ``Leen Geenens`` & ``Nils Lammertijn``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
