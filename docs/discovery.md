@@ -2,7 +2,7 @@
 Max. 1000 woorden.   
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
 
-In deze fase wordt de probleemstelling in kaart gebracht. Er wordt onderzoekt welke opslossing er al zijn en waar er verbeteringen kunnen komen op bestaande opslossingen of er iets nieuws moet ontworpen worden. 
+In de discovery fase wordt de probleemstelling in kaart gebracht. Dit gebreud door verschillende methoden, ook wordt er onderzocht welke opslossing er al zijn en waar er verbeteringen kunnen komen op bestaande opslossingen of er iets nieuws moet ontworpen worden. 
 
 ### Doestellingen
 Wat wilde je bereiken?   
