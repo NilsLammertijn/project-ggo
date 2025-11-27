@@ -1,9 +1,13 @@
 ## Overzicht van Design Requirements
-|| **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
+
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
-|**Algemeen**|
-|1.1|Het product ... |[1.1 Expert interview](url)|❌|
-|1.2|De gebruiker kan ... |[2.1 User test](url)|⚠️|
-|**Deelaspect**|
-|2.1|De pods ... |[2.1 User test](url)|✅|
+|**discovery**|
+|1.1|req|[user interview](url)||
+|1.2|req|[literatuuronderzoek](url)||
+|1.3|req|[benchmarking](url)||
+|**defenition**|
+|2.1|req|[User test wave 1](url)||
+|2.2|req|[User test wave 2](url)||
+|**discover**|
+|3.1|req|[user test wave ](url)||
