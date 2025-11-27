@@ -37,6 +37,16 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 4. [Design Requirements](./docs/design_requirements.md)
 5. [Bill of materials](./docs/bom.md)
 
+## Methodologie
+
+## Discovery
+
+## Defenition
+
+## Design Requirements
+
+## Bill of Materials
+
 ## Kritische reflectie
 Max. 500 woorden
 
