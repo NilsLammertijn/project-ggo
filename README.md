@@ -112,8 +112,11 @@ Definieer de belangrijkste designbeslissingen.
 |1.7|De gebruiker moet zich op een creatieve manier bezig kunnen houden.|[literatuuronderzoek](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FLiteratuuronderzoek%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)||
 |1.8|De gebruiker moet het product op een comfortabele manier kunnen gebruiken.|[benchmarking](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FBenchmark%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)||
 |**defenition**|
-|2.1|req|[User test wave 1](url)||
-|2.2|req|[User test wave 2](url)||
+|2.1|Het product moet fysieke knoppen hebben, waar het kan.|[User test wave 1](url)||
+|2.2|De schermen op het product moeten kunnen ingesteld worden voor links- of rechtshandige kinderen.|[User test wave 1](url)||
+|2.3|Het product moet een manier hebben om de schermen uit te zetten of weg te doen.|[User test wave 1](url)||
+|2.4|De grootte van het scherm moet minimaal zijn.|[User test wave 1](url)||
+|2.5|req|[User test wave 2](url)||
 |**discover**|
 |3.1|req|[user test wave ](url)||
 
