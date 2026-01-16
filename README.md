@@ -14,6 +14,8 @@ Bij lange autoritten kunnen jonge kinderen zich vaak vervelen. Hierbij komt vaak
 
 Door middel van interviews is in interactie gegaan met ouders en hun kinderen (2-6 jaar). Hieruit is gebleken dat het begin van de rit meestal goed gaat, maar dat na een tijdje de kinderen niet meer weten wat ze nog kunnen doen. Er is ook aan benchmarking gedaan. Hieruit is gebleken dat er wel oplossingen zijn, maar dat deze de kinderen niet lang genoeg bezig houden. Dit is dan wat uiteindelijk voor stress zorgt bij de ouders.
 
+Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speeltafel kan het kind de rit meevolgen en kan het kind zich bezighouden in de auto. Hierdoor krijgt het kind minder de neiging om te vragen hoe lang het nog is, wat zorgt voor minder stress bij ouders.
+
 - Wat is het probleem?
 - Hoe heb je dit onderzocht?
 - Wat is jouw oplossing?
