@@ -59,7 +59,7 @@ In de discovery fase wordt de probleemstelling in kaart gebracht. Dit gebreud do
 Wat wilde je bereiken?   
 Welke deelvragen moesten hiervoor beantwoord worden?
 
-De stressfactoren die ouders met jonge kinderen ondervinden in kaart te brengen. Hierbij wordt de een stressfactor genomen als probleemstelling en wordt er naar een oplossing gezocht voor het stressfactor te kunnen wegnemen. 
+De doelstelling is om De stressfactoren die ouders met jonge kinderen ondervinden in kaart te brengen. Hierbij wordt de stressfactor genomen als probleemstelling en wordt er naar een oplossing gezocht om de stressfactor te kunnen wegnemen. 
 
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.    
