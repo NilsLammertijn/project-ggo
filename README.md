@@ -139,6 +139,10 @@ Uit de tests van wave twee kunnen nog een paar conclusies genomen worden.
 -	Het scherm voor de spelletjes moet de mogelijkheid hebben om eruit te kunnen genomen worden en om te draaien waardoor de oppervlakte waar de kinderen op spelen en de mogelijkheid van het scherm weg is. 
 -	Door dat het scherm eruit kan genomen worden kan het zowel links als rechts geplaatst worden.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54d9e7b3-e469-4401-a1b3-6c8b6fb09ac9" width="50%">
+</p>
+
 ## Design Requirements
 
 ### Overzicht van Design Requirements
