@@ -73,7 +73,7 @@ Dat wat er ontworpen wordt multifunctioneel is zodat er verschillende zaken op k
 Verassingen zijn ook handig omdat ze dan iets hebben om naar uit te kijken en daarna hebben ze weer iets om zich bezig te houden.  (Voor de volledige interviews bijlage interview rapport).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fbe8a10c-cf95-42c3-af7a-fb986fd8d621" width="100%">
+  <img src="https://github.com/user-attachments/assets/fbe8a10c-cf95-42c3-af7a-fb986fd8d621" width="50%">
 </p>
 
 
