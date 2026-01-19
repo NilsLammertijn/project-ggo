@@ -201,7 +201,8 @@ Licht toe op welke manier je AI gebruikte in dit project.
 * User testing wave 2 (N=4)
   * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAxiwArCR5gQLO2vSBqsSrUAfxrwx7yFBths7YoxMnzEPk?e=iNmwXa)
   * [Data](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDwipJFF69LQ5qPSsUKXY4eAcZ2S4ZVyxsKVwYXO_2w-w4?e=cun0Lk)
-  * [Rapport](https://github.com/user-attachments/files/24723102/LeenGeenens_NilsLammertijn_Test.wave.2.report_opvoedstress.pdf)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAlmbvPl1FJQ4JwISDEuBveAVL6oLa9rK-QeRhxjEbybAo?e=XtmfPG)
+
 
 ## Licentie 
 
