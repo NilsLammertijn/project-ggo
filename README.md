@@ -52,9 +52,7 @@ Eerst werd een literatuuronderzoek gedaan om meer te weten te komen waar ouders 
 Met de ondervindingen die werden een benchmark onderzoek gedaan, om zo meer te weten te komen over producten die al gebruikt worden voor het probleem. Hierbij werd er positieve en negatieve aspecten van de producten benoemd om zou een goed overzicht te krijgen wat er beter zou kunnen. 
 Met deze zaken in het achterhoofd werden er interviews met de gebruikers gedaan. Om zo meer inzicht te krijgen over wat er werd gevonden of dit ook klopte. In het begin wordt er nog algemeen gevraagd en daarna werd er verder gevraagd naar de probleemstelling die werd gevonden bij het literatuuronderzoek.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0f708074-dc07-4bec-b9fa-6573c7af937c" width="50%">
-</p>
+
 
 ### Resultaten
 Tijdens het literatuur onderzoek werd er op de website van Kind & gezin gekeken, hierin waren er tips voor het reizen met kinderen. Bij verder literatuur onderzoek werden  verschillende tips en leuke spelletjes gevonden op te doen tijdens het autorijden. De tips die meeneem zijn dat je best een goeie planning maakt van wanneer je vertrekt tot de stop ’s die je maakt. Dat kinderen een cadeautje geven onderweg wel handig kan zijn, want dan hebben ze iets om naar uit te kijken en daarna om hun bezig mee te houden. (Voor de volledige respons bijlage literatuuronderzoek rapport) 
@@ -72,9 +70,7 @@ Zoveel mogelijke afleiding op verschillende manieren: door ze opdrachten te geve
 Dat wat er ontworpen wordt multifunctioneel is zodat er verschillende zaken op kunnen gezet worden. Hierdoor krijgen ze weer een nieuwe uitdaging en zijn ze weer voor een tijdje afgeleid. Met afwisseling van iets op de reistafel te doen en iets met interactie in de omgeving zodat kinderen die snel misselijk worden ook iets leuks kunnen doen en dat ze niet heel de tijd op een scherm zitten. 
 Verassingen zijn ook handig omdat ze dan iets hebben om naar uit te kijken en daarna hebben ze weer iets om zich bezig te houden.  (Voor de volledige interviews bijlage interview rapport).
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fbe8a10c-cf95-42c3-af7a-fb986fd8d621" width="50%">
-</p>
+
 
 
 ### Conclusies & implicaties
@@ -98,6 +94,9 @@ Het doel tijdens deze fase was om te achterhalen welke functies de reistafel all
 -	Waar moet de weg-balk komen en de grootte ervan? 
 ### Materiaal & methoden
 Deze vragen werden vooral onderzocht door gebruikerstesten uit te voeren. Deze gebruikerstesten werden in twee waves gedaan. Uit wave 1 kon verder gebouwd worden in wave 2. Voor de gebruikerstesten werd telkens een protocol geschreven om de testen voor te bereiden. Voor de testen zelf werden kartonnen prototypes gemaakt om een ruw idee voor te kunnen stellen aan de gebruiker en om te kijken hoe de gebruiker in interactie gaat met het prototype.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f708074-dc07-4bec-b9fa-6573c7af937c" width="50%">
+</p>
 ### Resultaten
 Bij elke wave werd een rapport geschreven. Uit de eerste wave is gebleken dat het prototype met meerdere kleine schermen de beste optie is. Voor de indeling van de tafel met de meerdere schermen zijn er gelijkenissen tussen de verschillende gebruikers:
 -	Het scherm voor de planning moet best bovenaan geplaatst worden. 
@@ -120,6 +119,10 @@ Uit de testen van de tweede wave is gekomen:
 -	Het omdraaien van het speelscherm mag enkel kunnen gedaan worden door de ouder. Een voorbeeld hiervan is een extra klipje dat moet worden ingedrukt of het systeem dat soms gebruikt wordt bij het deksel van batterijcompartimenten. 
 -	Het scherm voor de planning heeft de goede grootte, want als het kleiner was, zou het minder leesbaar zijn als de tafel tegen de stoel wordt geklapt. 
 -	Om er ook te voor kunnen zorgen dat het zowel links als rechts kan geplaatst worden, zodat het handig is voor zowel linkshandige als rechtshandige kinderen, is het best dat het scherm eruit gehaald kan worden en dan omgedraaid kan worden dan dat het met een draaisysteem werkt zoals in prototype 3.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbe8a10c-cf95-42c3-af7a-fb986fd8d621" width="50%">
+</p>
+
 ### Conclusies & implicaties
 Uit deze tests zijn nog een paar nieuwe design requirements gekomen. De tafel met kleinere individuele schermen lijkt voor de respondenten beter. Een volledig scherm is te afleidend en kinderen gebruiken al vaak schermen, dus een tafel minder afhankelijk van schermen is preferabel. Uit de tests is dus ook gebleken dat fysieke knoppen ook preferabel zijn waar het kan. Hier werd specifiek gesproken over de interactie tussen kinderen en ouders. Er werd ook gewezen op het feit dat sommige kinderen linkshandig zijn, en dat het scherm dus moet kunnen ingesteld worden voor rechts- en linkshandige kinderen. Een manier om de schermen en knoppen uit te kunnen zetten of weg te kunnen doen, zodat de kinderen minder worden afgeleid door de schermen en knoppen en meer plaats hebben op de tafel, is ook nog een potentiële functie die werd aangeraden.
 Design requirements:
