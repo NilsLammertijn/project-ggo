@@ -8,22 +8,11 @@ Een reistafel om lange autoritten minder stressvol te maken.
 *Dag/Maand/Jaar van de laatste update*   
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
-
 Bij lange autoritten kunnen jonge kinderen zich vaak vervelen. Hierbij komt vaak de vraag: 'Hoe lang is het nog?'. Dit kan bij veel ouders stress opleveren. Hier willen we een oplossing voor vinden.
 
 Door middel van interviews is in interactie gegaan met ouders en hun kinderen (2-6 jaar). Hieruit is gebleken dat het begin van de rit meestal goed gaat, maar dat na een tijdje de kinderen niet meer weten wat ze nog kunnen doen. Er is ook aan benchmarking gedaan. Hieruit is gebleken dat er wel oplossingen zijn, maar dat deze de kinderen niet lang genoeg bezig houden. Dit is dan wat uiteindelijk voor stress zorgt bij de ouders.
 
 Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speeltafel kan het kind de rit meevolgen en kan het kind zich bezighouden in de auto. Hierdoor krijgt het kind minder de neiging om te vragen hoe lang het nog is, wat zorgt voor minder stress bij ouders.
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/11b12a24-6e6c-4ccb-b938-dd118f81bc1b" width="100%">
-</p>
 
 
 ## Introductie
@@ -39,22 +28,14 @@ Randvoorwaarden:
 -	Interactief: het moet kinderen kunnen actief kunnen betrekken, waardoor ze hun kunnen bezig houden. 
 
 
-## Inhoudstafel
-
-1. [Methodologie](./docs/methodologie.md)
-2. [Discovery](./docs/discovery.md)
-3. [Defintion](./docs/definition.md)
-4. [Design Requirements](./docs/design_requirements.md)
-5. [Bill of materials](./docs/bom.md)
-
-
-
 ## Methodologie
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal (1) een tijdsincatie te zien zijn (e.g. maanden of kwartalen), moeten fasen te zien (gekoppeld aan doelstellingen van die fase) zijn en moeten activiteiten te zien zijn (onderzoeksmethoden). Bekijk zeker ook eens [voorbeelden van eerdere jaren](https://github.com/basbaccarne/human-centered-design) (voor SEM1 betreft dit uiteraard slechts de helft van deze visualisaties). We boewen hier in het tweede semester op verder.   
 
 Neem hier ook een tijdlijn in op waarin we de evoluties van de prototypes kunnen zien.
 
+De design methodologie die hier gebruikt wordt, is de triple diamond. Deze methodologie heeft 3 grote fasen: discover, define en develop. In de discover fase wordt eerst en vooral het probleem zelf onderzocht. Dit is gebeurt met behulp van literatuuronderzoek en intereviews. Uit dit onderzoek wordt de juiste informatie gehaald om het probleem zo goed mogelijk te definiëren. Eens het probleem goed gedefinieerd is, kan een eerste concept bedacht worden. Wanneer het eerste concept is voorgesteld, kan naar de volgende fase gegaan worden.
 
+De volgende fase is de define fase. In deze fase wordt nog meer onderzoek gedaan naar de functionaliteit die het concept moet hebben. Er wordt een eerste wave gebruikerstesten gedaan om zo een verder inzicht te krijgen in de design requirements van het concept. Hieruit wordt geïtereerd en worden nieuwe prototypes gemaakt. Met deze prototypes wordt nog een wave gebruikerstesten gedaan. Hieruit kan een finaal concept bedacht worden.
 
 
 ## Discovery
