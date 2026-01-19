@@ -14,6 +14,10 @@ Door middel van interviews is in interactie gegaan met ouders en hun kinderen (2
 
 Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speeltafel kan het kind de rit meevolgen en kan het kind zich bezighouden in de auto. Hierdoor krijgt het kind minder de neiging om te vragen hoe lang het nog is, wat zorgt voor minder stress bij ouders.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11b12a24-6e6c-4ccb-b938-dd118f81bc1b" width="100%">
+</p>
+
 
 ## Introductie
 Ouders ervaren stress bij het opvoeden van hun jonge kinderen. Met de project proberen we een aspect waardoor ze stress ervaren te kunnen verminder of zelf weg te nemen. Via de tip de werden gevonden op Kind&Gezin [^1] werd er op het idee gekomen om iets rond reizen met de auto te doen. 
@@ -29,10 +33,9 @@ Randvoorwaarden:
 
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal (1) een tijdsincatie te zien zijn (e.g. maanden of kwartalen), moeten fasen te zien (gekoppeld aan doelstellingen van die fase) zijn en moeten activiteiten te zien zijn (onderzoeksmethoden). Bekijk zeker ook eens [voorbeelden van eerdere jaren](https://github.com/basbaccarne/human-centered-design) (voor SEM1 betreft dit uiteraard slechts de helft van deze visualisaties). We boewen hier in het tweede semester op verder.   
-
-Neem hier ook een tijdlijn in op waarin we de evoluties van de prototypes kunnen zien.
-
+<p align="center">
+  <img src="[triple diamondpdf.pdf](https://github.com/user-attachments/files/24722785/triple.diamondpdf.pdf)" width="100%">
+</p>
 De design methodologie die hier gebruikt wordt, is de triple diamond. Deze methodologie heeft 3 grote fasen: discover, define en develop. In de discover fase wordt eerst en vooral het probleem zelf onderzocht. Dit is gebeurt met behulp van literatuuronderzoek en intereviews. Uit dit onderzoek wordt de juiste informatie gehaald om het probleem zo goed mogelijk te definiëren. Eens het probleem goed gedefinieerd is, kan een eerste concept bedacht worden. Wanneer het eerste concept is voorgesteld, kan naar de volgende fase gegaan worden.
 
 De volgende fase is de define fase. In deze fase wordt nog meer onderzoek gedaan naar de functionaliteit die het concept moet hebben. Er wordt een eerste wave gebruikerstesten gedaan om zo een verder inzicht te krijgen in de design requirements van het concept. Hieruit wordt geïtereerd en worden nieuwe prototypes gemaakt. Met deze prototypes wordt nog een wave gebruikerstesten gedaan. Hieruit kan een finaal concept bedacht worden.
