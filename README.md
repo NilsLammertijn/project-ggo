@@ -34,7 +34,7 @@ Randvoorwaarden:
 
 ## Methodologie
 <p align="center">
-  <img src="https://github.com/user-attachments/files/24722785/triple.diamondpdf.pdf" width="100%">
+  <img src="https://github.com/user-attachments/assets/50afa8d5-6224-49d3-b759-2c36bff79be5" width="100%">
 </p>
 De design methodologie die hier gebruikt wordt, is de triple diamond. Deze methodologie heeft 3 grote fasen: discover, define en develop. In de discover fase wordt eerst en vooral het probleem zelf onderzocht. Dit is gebeurt met behulp van literatuuronderzoek en intereviews. Uit dit onderzoek wordt de juiste informatie gehaald om het probleem zo goed mogelijk te definiëren. Eens het probleem goed gedefinieerd is, kan een eerste concept bedacht worden. Wanneer het eerste concept is voorgesteld, kan naar de volgende fase gegaan worden.
 
