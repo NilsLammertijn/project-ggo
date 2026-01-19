@@ -52,6 +52,9 @@ Eerst werd een literatuuronderzoek gedaan om meer te weten te komen waar ouders 
 Met de ondervindingen die werden een benchmark onderzoek gedaan, om zo meer te weten te komen over producten die al gebruikt worden voor het probleem. Hierbij werd er positieve en negatieve aspecten van de producten benoemd om zou een goed overzicht te krijgen wat er beter zou kunnen. 
 Met deze zaken in het achterhoofd werden er interviews met de gebruikers gedaan. Om zo meer inzicht te krijgen over wat er werd gevonden of dit ook klopte. In het begin wordt er nog algemeen gevraagd en daarna werd er verder gevraagd naar de probleemstelling die werd gevonden bij het literatuuronderzoek.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f708074-dc07-4bec-b9fa-6573c7af937c" width="50%">
+</p>
 
 ### Resultaten
 Tijdens het literatuur onderzoek werd er op de website van Kind & gezin gekeken, hierin waren er tips voor het reizen met kinderen. Bij verder literatuur onderzoek werden  verschillende tips en leuke spelletjes gevonden op te doen tijdens het autorijden. De tips die meeneem zijn dat je best een goeie planning maakt van wanneer je vertrekt tot de stop ’s die je maakt. Dat kinderen een cadeautje geven onderweg wel handig kan zijn, want dan hebben ze iets om naar uit te kijken en daarna om hun bezig mee te houden. (Voor de volledige respons bijlage literatuuronderzoek rapport) 
