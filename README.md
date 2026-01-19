@@ -101,19 +101,50 @@ Het volledig zonder iets digitaal doen wordt moeilijk omdat de kinderen het zo g
 Max. 1000 woorden.    
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
 ### Doestellingen
-Wat wilde je bereiken in deze fase?    
-Welke deelvragen moesten hiervoor beantwoord worden?
+Het doel tijdens deze fase was om te achterhalen welke functies de reistafel allemaal moest hebben, hoe ze er moeten uitzien en wat ze allemaal moeten kunnen.
+-	Hoe moet de lay-out van de reistafel eruitzien?  
+-	Hoe groot mag het schermpje zijn? 
+-	Waar moet het schermpjes zich positioneren in de reistafel? 
+-	Waar moet de weg-balk komen en de grootte ervan? 
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.  
-Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzoeksvragen te beantwoorden (benoemen wat je aftoetst & link naar design requirements).   
-Leg uit welke testen werden uitgevoerd.
+Deze vragen werden vooral onderzocht door gebruikerstesten uit te voeren. Deze gebruikerstesten werden in twee waves gedaan. Uit wave 1 kon verder gebouwd worden in wave 2. Voor de gebruikerstesten werd telkens een protocol geschreven om de testen voor te bereiden. Voor de testen zelf werden kartonnen prototypes gemaakt om een ruw idee voor te kunnen stellen aan de gebruiker en om te kijken hoe de gebruiker in interactie gaat met het prototype.
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Bij elke wave werd een rapport geschreven. Uit de eerste wave is gebleken dat het prototype met meerdere kleine schermen de beste optie is. Voor de indeling van de tafel met de meerdere schermen zijn er gelijkenissen tussen de verschillende gebruikers:
+-	Het scherm voor de planning moet best bovenaan geplaatst worden. 
+-	De interactie met de ouders moet best met fysieke knoppen zijn. 
+-	Er moet een mogelijkheid zijn om het scherm uit te zetten.
+
+Er waren ook verschillende meningen tussen gebruikers: 
+-	Het scherm voor de opdrachten mocht bij de ene groter dan bij de andere
+-	Ook zou de communicatie met de ouders niet moeten voor sommige. 
+
+Andere opmerkingen:
+-	De planning en de knoppen zouden misschien kunnen uitgeklapt worden. De mogelijkheid om het scherm ook eventueel te laten verdwijnen zodat ze erover iets kunnen doen. 
+-	Rekening houden met links- en rechtshandige kinderen
+-	Alles met kleuren en symbolen goed duidelijk maken. Vooral bij de planning, want jonge kinderen kunnen nog geen klok lezen en hebben niet altijd een goed tijdsbesef. 
+
+Uit de testen van de tweede wave is gekomen:
+-	Het zou goed zijn als de planning altijd zichtbaar is. 
+-	De mogelijkheid om de planning of knoppen te verwijderen is niet noodzakelijk, wel dat er een mogelijkheid is om ze uit te zetten. Het scherm voor de spelletjes kunnen uitzetten of omdraaien zou handig zijn. Ze zijn er dan niet van afgeleid en zien het niet. 
+-	Het kunnen bewegen of omdraaien van iets moet best met een kinderslot gebeuren, want kinderen vinden het leuk om met alles te spelen en als ze met iets kunnen bewegen gaan ze dat doen als ze zich vervelen. Daarom zouden de fysieke knoppen best op iets vastzitten zonder dat ze kunnen bewegen. 
+-	Het omdraaien van het speelscherm mag enkel kunnen gedaan worden door de ouder. Een voorbeeld hiervan is een extra klipje dat moet worden ingedrukt of het systeem dat soms gebruikt wordt bij het deksel van batterijcompartimenten. 
+-	Het scherm voor de planning heeft de goede grootte, want als het kleiner was, zou het minder leesbaar zijn als de tafel tegen de stoel wordt geklapt. 
+-	Om er ook te voor kunnen zorgen dat het zowel links als rechts kan geplaatst worden, zodat het handig is voor zowel linkshandige als rechtshandige kinderen, is het best dat het scherm eruit gehaald kan worden en dan omgedraaid kan worden dan dat het met een draaisysteem werkt zoals in prototype 3.
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen.
+Uit deze tests zijn nog een paar nieuwe design requirements gekomen. De tafel met kleinere individuele schermen lijkt voor de respondenten beter. Een volledig scherm is te afleidend en kinderen gebruiken al vaak schermen, dus een tafel minder afhankelijk van schermen is preferabel. Uit de tests is dus ook gebleken dat fysieke knoppen ook preferabel zijn waar het kan. Hier werd specifiek gesproken over de interactie tussen kinderen en ouders. Er werd ook gewezen op het feit dat sommige kinderen linkshandig zijn, en dat het scherm dus moet kunnen ingesteld worden voor rechts- en linkshandige kinderen. Een manier om de schermen en knoppen uit te kunnen zetten of weg te kunnen doen, zodat de kinderen minder worden afgeleid door de schermen en knoppen en meer plaats hebben op de tafel, is ook nog een potentiële functie die werd aangeraden.
+Design requirements:
+-	Het product moet fysieke knoppen hebben, waar het kan.
+-	De schermen op het product moeten kunnen ingesteld worden voor links- of rechtshandige kinderen.
+- Het product moet een manier hebben om de schermen uit te zetten of weg te doen.
+-	De grootte van het scherm moet minimaal zijn
 
-
-
+Uit de tests van wave twee kunnen nog een paar conclusies genomen worden. 
+-	De planning moet de mogelijkheid hebben om omgedraaid te worden zodat de kinderen het ook kunnen zien als de tafel tegen de stoel dicht is geklapt. 
+-	De fysieke knoppen moeten best op een vaste plaats staan en niet kunnen bewegen zodat de kinderen er niet mee kunnen spelen en dat er een mogelijkheid is om deze knoppen uit te zetten als de ouders dat willen. 
+-	De schermgrootte voor de planning van prototype 1 is groot genoeg. 
+-	Het kunnen verwijderen van de fysieke knoppen of de planning is overbodig. 
+-	Het scherm voor de spelletjes moet de mogelijkheid hebben om eruit te kunnen genomen worden en om te draaien waardoor de oppervlakte waar de kinderen op spelen en de mogelijkheid van het scherm weg is. 
+-	Door dat het scherm eruit kan genomen worden kan het zowel links als rechts geplaatst worden.
 
 ## Design Requirements
 
@@ -135,7 +166,9 @@ Definieer de belangrijkste designbeslissingen.
 |2.2|De schermen op het product moeten kunnen ingesteld worden voor links- of rechtshandige kinderen.|[User test wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leen_geenens_ugent_be/_layouts/15/Doc.aspx?sourcedoc=%7B519B90C7-1437-4DAF-AE5C-C83A91B0FB6C%7D&file=LeenGeenens_NilsLammertijn_Test%20wave%201%20report_opvoedstress.docx&action=default&mobileredirect=true)||
 |2.3|Het product moet een manier hebben om de schermen uit te zetten of weg te doen.|[User test wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leen_geenens_ugent_be/_layouts/15/Doc.aspx?sourcedoc=%7B519B90C7-1437-4DAF-AE5C-C83A91B0FB6C%7D&file=LeenGeenens_NilsLammertijn_Test%20wave%201%20report_opvoedstress.docx&action=default&mobileredirect=true)||
 |2.4|De grootte van het scherm moet minimaal zijn.|[User test wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leen_geenens_ugent_be/_layouts/15/Doc.aspx?sourcedoc=%7B519B90C7-1437-4DAF-AE5C-C83A91B0FB6C%7D&file=LeenGeenens_NilsLammertijn_Test%20wave%201%20report_opvoedstress.docx&action=default&mobileredirect=true)||
-|2.5|req|[User test wave 2](url)||
+|2.5|De planning moet de mogelijkheid hebben om omgedraaid te worden|[User test wave 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leen_geenens_ugent_be/_layouts/15/Doc.aspx?sourcedoc=%7B45F816AE-7532-46B7-BC5B-BCB8221C7EA0%7D&file=LeenGeenens_NilsLammertijn_Test%20wave%202%20report_opvoedstress.docx&action=default&mobileredirect=true)||
+|2.5|De fysieke knoppen moeten best op een vaste plaats staan|[User test wave 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leen_geenens_ugent_be/_layouts/15/Doc.aspx?sourcedoc=%7B45F816AE-7532-46B7-BC5B-BCB8221C7EA0%7D&file=LeenGeenens_NilsLammertijn_Test%20wave%202%20report_opvoedstress.docx&action=default&mobileredirect=true)||
+|2.5|Het scherm voor de spelletjes moet de mogelijkheid hebben om eruit te kunnen genomen worden|[User test wave 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leen_geenens_ugent_be/_layouts/15/Doc.aspx?sourcedoc=%7B45F816AE-7532-46B7-BC5B-BCB8221C7EA0%7D&file=LeenGeenens_NilsLammertijn_Test%20wave%202%20report_opvoedstress.docx&action=default&mobileredirect=true)||
 |**discover**|
 |3.1|req|[user test wave ](url)||
 
