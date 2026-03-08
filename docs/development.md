@@ -81,3 +81,13 @@ De volgende implicaties werden uit deze fase gehaald
 -	Het product laat niet toe dat het puntje van het pennetje afneembaar is.
 -	Het product laat toe de tafel te bevestigen aan de kinderstoel van het kind.
 
+Tijdens deze fase werd ook een anayse gedaan van de verschillende taken:
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/2729ea9a-20ed-4a11-8a62-7c41d2437144" width="100%">
+</p>
+
+Ook werd er een storyboard gemaakt:
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/81677545-db7b-4e44-a61c-a172eac2ce5a" width="100%">
+</p>
