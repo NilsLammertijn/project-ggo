@@ -76,8 +76,8 @@ Licht toe op welke manier je AI gebruikte in dit project.
 
  ### Development 1
  * user testing (N=3)
-   *[Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBEI7ZYHQkxRZ8FVjG5rtYoAchVIknVt9idloouErzLUNM?e=VfcNxq)
-   *[Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDeXCYViK5eSIQ2HF5SQbTlAekZyyGTanoiKZwWNr2_ah4?e=aGjm0F)
+   * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBEI7ZYHQkxRZ8FVjG5rtYoAchVIknVt9idloouErzLUNM?e=VfcNxq)
+   * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDeXCYViK5eSIQ2HF5SQbTlAekZyyGTanoiKZwWNr2_ah4?e=aGjm0F)
 
 
 ## Licentie 
