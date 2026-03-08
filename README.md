@@ -59,8 +59,9 @@ In de volgende fase is hierwel op gefocust om de interface kindvriendelijk te ma
 
 
 ## Noot inzake het gebruik van AI
-AI werd gebruikt bij het genereren van activiteiten die kunnen gedaan worden tijdens het benchmarkonderzoek. Ook werd er aan CHat-GPt gevraagd op ideeën te genereren. 
+AI werd gebruikt bij het genereren van activiteiten die kunnen gedaan worden tijdens het benchmarkonderzoek. Ook werd er aan CHat-GPt gevraagd op ideeën te genereren, deze werden enkel gebruikt als inspiratie. 
 Viscom werd gebruikt om verschillende heroshots te maken van de concepten die bedacht waren. 
+Er werd ook AI ingezet om de geschreven protocols en analayses qua vormgeving en taalkundig beter te maken. 
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=6)
