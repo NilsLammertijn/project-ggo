@@ -89,5 +89,5 @@ Tijdens deze fase werd ook een anayse gedaan van de verschillende taken:
 Ook werd er een storyboard gemaakt:
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/81677545-db7b-4e44-a61c-a172eac2ce5a" width="100%">
+<img src="https://github.com/user-attachments/assets/92331d09-539a-46c2-baee-4b17af15d239" width=100%">
 </p>
