@@ -48,11 +48,19 @@ Bij het ontwerpen van dit product worden enkele belangrijke randvoorwaarden in a
 
 
 ## Kritische reflectie
-Max. 500 woorden
+In dit project zijn er aspecten die goed lopen en anderen lopen minder goed. 
+
+In de eerste fase, de discovery, is er op verschillende mogelijkeheden onderzocht of probleem wel degelijk een probleem was. Zo is er eerst een literatuuronderzoek geweest, gevolgd door een benchmark onderzoek. Met de bevindingen die uit deze onderzoeken zijn gewonnen, zijn er interviews gedaan met ouders van jonge kinderen. Om zo na te gaan of de bevindingen die tijdens de eerder bekomen onderzoeken wel klopten met de ondervindingen van de ouders zelf. 
+
+In de definition fase werd er zowel in wave 1 als in wave 2 gefocust op hoe de reistafel er moet uitzien. Dit was achteraf niet de beste optie, want het doel van de slimme reistafel is om kinderen bezig te houden tijdens lange autoritten. Om hiervoor te zorgen is het belangrijk dat er een duidelijk interface is dat kinderen gemakkelijk kunnen gebruiken. Daarom was het beter geweest dat één van beide waves hierover was gegaan. 
+
+In de volgende fase is hierwel op gefocust om de interface kindvriendelijk te maken. Hierbij werd ook een onderzoek gedaan naar welke spelletjes de kinderen allemaal zouden kunnen doen op de slimme reistafel. Dit werd gedaan op basis van de benchmark van in de vorige fase en door dit tijdens de test aan ouders te vragen. Er moet wel nog verder benchmark onderzoek gedaan worden naar welke activiteiten allemaal mogelijk zijn en welke niet. De planning en de fysieke knoppen moeten nog verder uitgewerkt worden, net als de app voor de ouders waar ze alles op kunnen aanpassen. 
+
+
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
-
+AI werd gebruikt bij het genereren van activiteiten die kunnen gedaan worden tijdens het benchmarkonderzoek. Ook werd er aan CHat-GPt gevraagd op ideeën te genereren. 
+Viscom werd gebruikt om verschillende heroshots te maken van de concepten die bedacht waren. 
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=6)
