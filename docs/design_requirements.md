@@ -5,7 +5,7 @@
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
 |**algemeen**|
-|1.1|Het product moet kindvriendelijk zijn.|[discovery](./docs/discovery)||
+|1.1|Het product moet kindvriendelijk zijn.|[discovery](./docs/discovery.md)||
 |1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruieken|[discovery||
 |1.3|Het product is geschikt voor lange autoritten|[discovery]||
 |1.4|Het product moet gebruikt kunnen worden door zowel links- als rechtshandige kinderen.|[definition: wave1]||
