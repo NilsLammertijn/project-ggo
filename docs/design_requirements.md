@@ -6,11 +6,11 @@
 |:---|:---|:---|:---:|
 |**algemeen**|
 |1.1|Het product moet kindvriendelijk zijn.|[Discovery](./discovery.md)||
-|1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruieken|[discovery]()||
-|1.3|Het product is geschikt voor lange autoritten|[discovery]||
-|1.4|Het product moet gebruikt kunnen worden door zowel links- als rechtshandige kinderen.|[definition: wave1]||
-|1.5|Het product moet een aan-uit knop hebben.|[definition: wave2]||
-|1.6|Het product laat toe dat kinderen zich er 2 à 4 uur mee kunnen bezighouden|[development1]||
+|1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruieken|[discovery](./disvery.md)||
+|1.3|Het product is geschikt voor lange autoritten|[discovery](./discvery.md)||
+|1.4|Het product moet gebruikt kunnen worden door zowel links- als rechtshandige kinderen.|[definition: wave1](./defitition.md)||
+|1.5|Het product moet een aan-uit knop hebben.|[definition: wave2](./defition.md)||
+|1.6|Het product laat toe dat kinderen zich er 2 à 4 uur mee kunnen bezighouden|[development1](./develepment)||
 |1.7|Het product laat toe de tafel te bevestigen aan de kinderstoel van het kind.|[develompent1]||
 |**functionaliteit**|
 |2.1|Het product laat toe dat kinderen de weg kunnen meevolgen.|[discovery]||
