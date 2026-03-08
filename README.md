@@ -5,7 +5,7 @@ Een reistafel om lange autoritten minder stressvol te maken.
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Dag/Maand/Jaar van de laatste update*   
+*8/03/2026 van de laatste update*   
 
 ## Samenvatting
 Bij lange autoritten kunnen jonge kinderen zich vaak vervelen. Hierbij komt vaak de vraag: 'Hoe lang is het nog?'. Dit kan bij veel ouders stress opleveren. Hier willen we een oplossing voor vinden.
@@ -44,10 +44,6 @@ Randvoorwaarden:
 
 
 
-## Bill of Materials
-- Welk materiaal heb je nodig voor de laatste versie van je prototype?
-- Maak voor componenten een overzicht met links naar aankooppagina en pricing
-- Wat hebben anderen nodig om dit te maken (zie vb. instructables)?
 
 
 ## Kritische reflectie
