@@ -6,8 +6,8 @@
 |:---|:---|:---|:---:|
 |**algemeen**|
 |1.1|Het product moet kindvriendelijk zijn.|[Discovery](./discovery.md)||
-|1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruieken|[discovery](./disvery.md)||
-|1.3|Het product is geschikt voor lange autoritten|[discovery](./discvery.md)||
+|1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruieken|[discovery](./discovery.md)||
+|1.3|Het product is geschikt voor lange autoritten|[discovery](./discovery.md)||
 |1.4|Het product moet gebruikt kunnen worden door zowel links- als rechtshandige kinderen.|[definition: wave1](./defitition.md)||
 |1.5|Het product moet een aan-uit knop hebben.|[definition: wave2](./defition.md)||
 |1.6|Het product laat toe dat kinderen zich er 2 à 4 uur mee kunnen bezighouden|[development1](./develepment)||
