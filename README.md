@@ -15,11 +15,8 @@ Door middel van interviews is in interactie gegaan met ouders en hun kinderen (2
 Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speeltafel kan het kind de rit meevolgen en kan het kind zich bezighouden in de auto. Hierdoor krijgt het kind minder de neiging om te vragen hoe lang het nog is, wat zorgt voor minder stress bij ouders.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/11b12a24-6e6c-4ccb-b938-dd118f81bc1b" width="100%">
+ <img width="1920" height="1080" alt="de tafel steunt op de kinderstoel, met een kind in, het hangt niet meer vast aan de autostoel voor hun , zet de autostoel zoals ze zouden rijden, enkel de achterbank is zichtbaar, zodat het kind er op kan tekenen me" src="https://github.com/user-attachments/assets/258b1172-ecd7-4c63-a1f2-8c0bb328d974" />
 </p>
-
-<img width="1920" height="1080" alt="de tafel steunt op de kinderstoel, met een kind in, het hangt niet meer vast aan de autostoel voor hun , zet de autostoel zoals ze zouden rijden, enkel de achterbank is zichtbaar, zodat het kind er op kan tekenen me" src="https://github.com/user-attachments/assets/258b1172-ecd7-4c63-a1f2-8c0bb328d974" />
-
 
 ## Introductie
 Ouders ervaren stress bij het opvoeden van hun jonge kinderen. Met de project proberen we een aspect waardoor ze stress ervaren te kunnen verminder of zelf weg te nemen. Via de tip de werden gevonden op Kind&Gezin [^1] werd er op het idee gekomen om iets rond reizen met de auto te doen. 
