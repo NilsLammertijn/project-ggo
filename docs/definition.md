@@ -34,7 +34,7 @@ Andere opmerkingen:
   <img src="https://github.com/user-attachments/assets/fa36c3e6-15f1-4dbf-93a3-678885ea38ae" width="32%">
 </p>
 
-
+Voor het volledig [rapport](
 Resultaten wave 2
 Uit de tweede testfase kwamen de volgende inzichten:
 -	Het zou goed zijn als de planning altijd zichtbaar is. 
