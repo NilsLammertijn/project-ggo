@@ -45,9 +45,9 @@ Uit de tweede testfase kwamen de volgende inzichten:
 -	Om er ook te voor kunnen zorgen dat het zowel links als rechts kan geplaatst worden, zodat het handig is voor zowel linkshandige als rechtshandige kinderen, is het best dat het scherm eruit gehaald kan worden en dan omgedraaid kan worden dan dat het met een draaisysteem werkt zoals in prototype 3.
   
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/54b2f559-fe8e-4692-aa1a-19dfa97aa236" width="32%">
-  <img scr="https://github.com/user-attachments/assets/846554df-48d4-43e1-a37d-f8d66cd009d5" width="32%">
-  <img scr="https://github.com/user-attachments/assets/bb9a0f43-2263-4c3a-a096-8e8e7365a37c" width="32%">
+  <img src="https://github.com/user-attachments/assets/b700c7e6-7b01-4235-b38b-cc4a6e798a13" width="32%">
+  <img scr="https://github.com/user-attachments/assets/6539c7d9-0739-469e-bcb9-fe0f9f2ed22d" width="32%">
+  <img scr="https://github.com/user-attachments/assets/6e02007f-f110-46cf-b022-9f50b6b77299" width="32%">
 </p>
 
 ### Conclusies & implicaties
