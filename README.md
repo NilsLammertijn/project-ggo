@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="heroshot" src="https://github.com/user-attachments/assets/0679872d-f768-4133-bf5f-d810450f6d16" /># Slimme reistafel
+
 Een reistafel om lange autoritten minder stressvol te maken.
 
 🛠️ Built by ``Leen Geenens`` & ``Nils Lammertijn``   
