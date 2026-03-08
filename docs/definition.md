@@ -34,7 +34,7 @@ Andere opmerkingen:
   <img src="https://github.com/user-attachments/assets/fa36c3e6-15f1-4dbf-93a3-678885ea38ae" width="32%">
 </p>
 
-Voor het volledig [rapport](
+Voor het volledig [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDXwxCboCmeT7Q1F0Z1FZ5fAadoVVtmj6fI1KzgULRukyk?e=yl8bd4).
 Resultaten wave 2
 Uit de tweede testfase kwamen de volgende inzichten:
 -	Het zou goed zijn als de planning altijd zichtbaar is. 
@@ -50,6 +50,7 @@ Uit de tweede testfase kwamen de volgende inzichten:
   <img src="https://github.com/user-attachments/assets/cf7beee0-ff19-40b8-b7b7-4548dea57c4b" width="32%">
 </p>
 
+Voor het volledig [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQATEJAzmMSoR7gsz13dLPEmAeirwgxWSornx7Knz1WErIA?e=pibqbZ)
 
 ### Conclusies & implicaties
 Op basis van de gebruikerstesten werden verschillende nieuwe design requirements geformuleerd.
