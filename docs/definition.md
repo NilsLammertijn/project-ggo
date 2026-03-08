@@ -6,26 +6,30 @@ Het doel tijdens deze fase was om te achterhalen welke functies de reistafel all
 -	Waar moet het schermpjes zich positioneren in de reistafel? 
 -	Waar moet de weg-balk komen en de grootte ervan? 
 ### Materiaal & methoden
-Deze vragen werden vooral onderzocht door gebruikerstesten uit te voeren. Deze gebruikerstesten werden in twee waves gedaan. Uit wave 1 kon verder gebouwd worden in wave 2. Voor de gebruikerstesten werd telkens een protocol geschreven om de testen voor te bereiden. Voor de testen zelf werden kartonnen prototypes gemaakt om een ruw idee voor te kunnen stellen aan de gebruiker en om te kijken hoe de gebruiker in interactie gaat met het prototype.
+Om deze vragen te beantoorden werden voornamelijk gebruikerstesten uitgevoerd. Deze gebruikerstesten werden opgedeeld in twee waves. De resultaten van wave 1 werden gebruikt om de prototypes voor wave 2 te maken. Voor de gebruikerstesten werd telkens een protocol geschreven om de testen voor te bereiden. Voor de testen zelf werden kartonnen prototypes gemaakt om een ruw idee voor te kunnen stellen aan de gebruiker en om te kijken hoe de gebruiker in interactie gaat met het prototype.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0f708074-dc07-4bec-b9fa-6573c7af937c" width="50%">
 </p>
 ### Resultaten
-Bij elke wave werd een rapport geschreven. Uit de eerste wave is gebleken dat het prototype met meerdere kleine schermen de beste optie is. Voor de indeling van de tafel met de meerdere schermen zijn er gelijkenissen tussen de verschillende gebruikers:
--	Het scherm voor de planning moet best bovenaan geplaatst worden. 
--	De interactie met de ouders moet best met fysieke knoppen zijn. 
--	Er moet een mogelijkheid zijn om het scherm uit te zetten.
+Resultaten wave 1
+Uit de eerste testfase is gebleken dat het prototype met meerdere kleine schermen de beste optie is. 
+Voor de indeling van de tafel met de meerdere schermen zijn er gelijkenissen tussen de verschillende gebruikers:
+-	Het scherm voor de planning van de reis wordt bij voorkeur bovenaan geplaatst. 
+-	De interactie tuusen kinderen en de ouders gebeurt best via fysieke knoppen.
+-	Er moet een mogelijkheid zijn om het scherm uit te schakelen.
 
 Er waren ook verschillende meningen tussen gebruikers: 
 -	Het scherm voor de opdrachten mocht bij de ene groter dan bij de andere
--	Ook zou de communicatie met de ouders niet moeten voor sommige. 
+-	Sommige gebruikers vonden dat communicatie met de ouders via het systeem niet noodzakelijk is.
 
 Andere opmerkingen:
--	De planning en de knoppen zouden misschien kunnen uitgeklapt worden. De mogelijkheid om het scherm ook eventueel te laten verdwijnen zodat ze erover iets kunnen doen. 
+-	De planning en de knoppen zouden misschien kunnen uitgeklapt worden.
+-	Er zou een mogelijkheid kunnen zijn om het scherm tijdelijk te laten verdwijnen, zodat het tafeloppervlak volledig gebruikt kan worden.
 -	Rekening houden met links- en rechtshandige kinderen
 -	Alles met kleuren en symbolen goed duidelijk maken. Vooral bij de planning, want jonge kinderen kunnen nog geen klok lezen en hebben niet altijd een goed tijdsbesef. 
 
-Uit de testen van de tweede wave is gekomen:
+Resultaten wave 2
+Uit de tweede testfase kwamen de volgende inzichten:
 -	Het zou goed zijn als de planning altijd zichtbaar is. 
 -	De mogelijkheid om de planning of knoppen te verwijderen is niet noodzakelijk, wel dat er een mogelijkheid is om ze uit te zetten. Het scherm voor de spelletjes kunnen uitzetten of omdraaien zou handig zijn. Ze zijn er dan niet van afgeleid en zien het niet. 
 -	Het kunnen bewegen of omdraaien van iets moet best met een kinderslot gebeuren, want kinderen vinden het leuk om met alles te spelen en als ze met iets kunnen bewegen gaan ze dat doen als ze zich vervelen. Daarom zouden de fysieke knoppen best op iets vastzitten zonder dat ze kunnen bewegen. 
@@ -37,7 +41,11 @@ Uit de testen van de tweede wave is gekomen:
 </p>
 
 ### Conclusies & implicaties
-Uit deze tests zijn nog een paar nieuwe design requirements gekomen. De tafel met kleinere individuele schermen lijkt voor de respondenten beter. Een volledig scherm is te afleidend en kinderen gebruiken al vaak schermen, dus een tafel minder afhankelijk van schermen is preferabel. Uit de tests is dus ook gebleken dat fysieke knoppen ook preferabel zijn waar het kan. Hier werd specifiek gesproken over de interactie tussen kinderen en ouders. Er werd ook gewezen op het feit dat sommige kinderen linkshandig zijn, en dat het scherm dus moet kunnen ingesteld worden voor rechts- en linkshandige kinderen. Een manier om de schermen en knoppen uit te kunnen zetten of weg te kunnen doen, zodat de kinderen minder worden afgeleid door de schermen en knoppen en meer plaats hebben op de tafel, is ook nog een potentiële functie die werd aangeraden.
+Op basis van de gebruikerstesten werden verschillende nieuwe design requirements geformuleerd.
+Uit de resultaten blijkt dat een reistafel met meerdere kleinere schermen beter aansluit bij de voorkeuren van gebruikers dan één groot scherm. Een groot scherm wordt als te afleidend ervaren en bovendien gebruiken kinderen in het dagelijks leven al vaak digitale schermen. Een ontwerp dat minder afhankelijk is van schermgebruik wordt daarom als wenselijk beschouwd.
+Daarnaast blijkt dat fysieke knoppen in veel gevallen de voorkeur krijgen, vooral voor de interactie tussen ouders en kinderen. Fysieke knoppen bieden een duidelijke en eenvoudige manier van bediening.
+Er werd ook aandacht gevraagd voor ergonomie en toegankelijkheid, bijvoorbeeld door rekening te houden met zowel links- als rechtshandige kinderen. Verder werd aangeraden om een mogelijkheid te voorzien om schermen en knoppen tijdelijk uit te schakelen, zodat kinderen minder worden afgeleid en meer ruimte hebben om andere activiteiten op de tafel uit te voeren.
+
 Design requirements:
 -	Het product moet fysieke knoppen hebben, waar het kan.
 -	De schermen op het product moeten kunnen ingesteld worden voor links- of rechtshandige kinderen.
