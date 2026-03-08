@@ -28,9 +28,9 @@ Andere opmerkingen:
 -	Rekening houden met links- en rechtshandige kinderen
 -	Alles met kleuren en symbolen goed duidelijk maken. Vooral bij de planning, want jonge kinderen kunnen nog geen klok lezen en hebben niet altijd een goed tijdsbesef. 
 <p align="left">
-  <img src=![20260119_165309](https://github.com/user-attachments/assets/69f4e235-7d1a-4829-8eb0-4ac81b8929c0) width="33%">
-  <img src=![20260119_165353](https://github.com/user-attachments/assets/48aa04dd-b5df-4b3c-a627-c9ce3a756a12) width="33%">
-  <img src=![20260119_165445](https://github.com/user-attachments/assets/fa36c3e6-15f1-4dbf-93a3-678885ea38ae) width="33%>
+  <img src="https://github.com/user-attachments/assets/69f4e235-7d1a-4829-8eb0-4ac81b8929c0" width="33%">
+  <img src="https://github.com/user-attachments/assets/48aa04dd-b5df-4b3c-a627-c9ce3a756a12" width="33%">
+  <img src="https://github.com/user-attachments/assets/fa36c3e6-15f1-4dbf-93a3-678885ea38ae" width="33%>
 
 </p>
 
@@ -43,9 +43,9 @@ Uit de tweede testfase kwamen de volgende inzichten:
 -	Het scherm voor de planning heeft de goede grootte, want als het kleiner was, zou het minder leesbaar zijn als de tafel tegen de stoel wordt geklapt. 
 -	Om er ook te voor kunnen zorgen dat het zowel links als rechts kan geplaatst worden, zodat het handig is voor zowel linkshandige als rechtshandige kinderen, is het best dat het scherm eruit gehaald kan worden en dan omgedraaid kan worden dan dat het met een draaisysteem werkt zoals in prototype 3.
 <p align="center">
-  <img src=![20260119_165508](https://github.com/user-attachments/assets/54b2f559-fe8e-4692-aa1a-19dfa97aa236) width="33%">
-  <img scr=![20260119_165537](https://github.com/user-attachments/assets/846554df-48d4-43e1-a37d-f8d66cd009d5) width="33%">
-  <img scr=![20260119_165419](https://github.com/user-attachments/assets/1c338b3b-17b7-41be-b0f6-7fc169a0f43d) width="33%">
+  <img src="https://github.com/user-attachments/assets/54b2f559-fe8e-4692-aa1a-19dfa97aa236" width="33%">
+  <img scr="https://github.com/user-attachments/assets/846554df-48d4-43e1-a37d-f8d66cd009d5" width="33%">
+  <img scr="https://github.com/user-attachments/assets/1c338b3b-17b7-41be-b0f6-7fc169a0f43d" width="33%">
 
 </p>
 
