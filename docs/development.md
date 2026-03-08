@@ -6,7 +6,7 @@ Het doel van de eerste development face was om meer inzicht te krijgen in de int
 ### Materialen & methoden
 Voorafgaand aan de gebruikerstesten werd er een morfologische kaart gemaakt met verschillende mogelijkheden. 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/774caf42-8195-416d-81df-28376b918b11" width="100%">
+ <img src="https://github.com/user-attachments/assets/4df9b5ab-8ff6-42f8-a369-cbc1a56960a7" width="100%">
 </p>
 
 Op de reMarkable werd er 2 soorten activiteiten gezet:
@@ -30,14 +30,14 @@ Daarnaast werden enkele functies geïdentificeerd die aangepast moeten worden:
 - het aantal verschillende pennen moet beperkt worden
 - de kleur wit is overbodig
 - de knoppen om acties ongedaan te maken moeten duidelijker zijn
-<p align="center">
- <img src="https://github.com/user-attachments/assets/ff6ff109-779d-4cc6-81ef-db56976bcd6e" width="50%">
- <img src="https://github.com/user-attachments/assets/027255fe-fa03-4fbe-bb0c-c2a671705be0" width="50%">
+<p align="left">
+ <img src="https://github.com/user-attachments/assets/f5518465-97d0-4603-ac86-cd376fa7a195" width="50%">
+ <img src="https://github.com/user-attachments/assets/23088d84-ee1c-4bdd-b494-706cb7aae7c8" width="50%">
 </p>
 
 Wat betreft het gebruik van de pen werd vastgesteld dat kinderen enkel de pennen verkiezen waarbij de onderliggende kleurplaat zichtbaar blijft. Wanneer de tekening volledig wordt overschreven, ervaren kinderen dit als minder prettig.
 <p align="center">
- <img src="https://github.com/user-attachments/assets/5605bb8b-32d5-43aa-8ead-5aef9cffd8c2" width="100%">
+ <img src="https://github.com/user-attachments/assets/6889a4f5-5ae7-4f5e-aaf7-3f5f89a91e4f" width="100%">
 </p>
 
 Daarnaast werd vastgesteld dat de lijndikte van de pen groter moet zijn, zodat grote vlakken sneller kunnen ingekleurd worden.
