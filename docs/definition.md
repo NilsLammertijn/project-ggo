@@ -35,6 +35,7 @@ Andere opmerkingen:
 </p>
 
 Voor het volledig [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDXwxCboCmeT7Q1F0Z1FZ5fAadoVVtmj6fI1KzgULRukyk?e=yl8bd4).
+
 Resultaten wave 2
 Uit de tweede testfase kwamen de volgende inzichten:
 -	Het zou goed zijn als de planning altijd zichtbaar is. 
