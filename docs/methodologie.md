@@ -6,4 +6,4 @@ De design methodologie die hier gebruikt wordt, is de triple diamond. Deze metho
 
 De volgende fase is de define fase. In deze fase wordt nog meer onderzoek gedaan naar de functionaliteit die het concept moet hebben. Er wordt een eerste wave gebruikerstesten gedaan om zo een verder inzicht te krijgen in de design requirements van het concept. Hieruit wordt geïtereerd en worden nieuwe prototypes gemaakt. Met deze prototypes wordt nog een wave gebruikerstesten gedaan. Hieruit kan een finaal concept bedacht worden.
 
-in de Develop fase werd er in het eerste deel testen gedaan met de kinderen om de interactie tussen de E-ink scherm en het kind te weten te komen. 
+In de Develop fase werd er in het eerste deel testen gedaan met de kinderen om de interactie tussen de E-ink scherm en het kind te weten te komen. Hiervoor werd gebruikt gemaakt van een reMarkable wordt verschillende activiteiten werden opgezet. 
