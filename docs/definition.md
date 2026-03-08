@@ -50,6 +50,7 @@ Uit de tweede testfase kwamen de volgende inzichten:
   <img scr="https://github.com/user-attachments/assets/6e02007f-f110-46cf-b022-9f50b6b77299" width="32%">
 </p>
 
+
 ### Conclusies & implicaties
 Op basis van de gebruikerstesten werden verschillende nieuwe design requirements geformuleerd.
 Uit de resultaten blijkt dat een reistafel met meerdere kleinere schermen beter aansluit bij de voorkeuren van gebruikers dan één groot scherm. Een groot scherm wordt als te afleidend ervaren en bovendien gebruiken kinderen in het dagelijks leven al vaak digitale schermen. Een ontwerp dat minder afhankelijk is van schermgebruik wordt daarom als wenselijk beschouwd.
