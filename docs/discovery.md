@@ -7,7 +7,7 @@ De stressfactoren die ouders met jonge kinderen ondervinden in kaart te brengen.
 ### Materiaal & methoden
 Eerst werd een literatuuronderzoek gedaan om meer te weten te komen waar ouders stress ondervinden. Hierbij werd eerst algemeen opgezocht en dan al meer specifiek.
 Met de ondervindingen die werden een benchmark onderzoek gedaan, om zo meer te weten te komen over producten die al gebruikt worden voor het probleem. Hierbij werd er positieve en negatieve aspecten van de producten benoemd om zou een goed overzicht te krijgen wat er beter zou kunnen. 
-Met deze zaken in het achterhoofd werden er interviews met de gebruikers gedaan. Om zo meer inzicht te krijgen over wat er werd gevonden of dit ook klopte. In het begin wordt er nog algemeen gevraagd en daarna werd er verder gevraagd naar de probleemstelling die werd gevonden bij het literatuuronderzoek.
+Met deze zaken in het achterhoofd werden er interviews met de gebruikers gedaan. Om zo meer inzicht te krijgen over wat er werd gevonden of dit ook klopte. In het begin wordt er nog algemeen gevraagd en daarna werd er verder gevraagd naar de probleemstelling die werd gevonden bij het literatuuronderzoek. Zie volledig rapport [literatuuronderzoek](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FLiteratuuronderzoek%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)
 
 
 ### Resultaten
