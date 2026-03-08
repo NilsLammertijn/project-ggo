@@ -21,16 +21,17 @@ Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speel
 
 
 ## Introductie
-Ouders ervaren stress bij het opvoeden van hun jonge kinderen. Met de project proberen we een aspect waardoor ze stress ervaren te kunnen verminder of zelf weg te nemen. Via de tip de werden gevonden op Kind&Gezin [^1] werd er op het idee gekomen om iets rond reizen met de auto te doen. 
-Bij lange autoritten zagen kinderen heel vaak en stellen ze vaak de vragen “Hoe ver is het nog?” of  “Wanneer zijn we er?”. Deze vragen kunnen ouders na een duur ambetant maken of hun stress bezorgen. Of de kinderen beginnen te zagen dat ze hun vervelen en dat ze niet weten wat ze kunnen doen. 
+Ouders ervaren stress bij het opvoeden van hun jonge kinderen. Met de project proberen we een aspect waardoor ze stress ervaren te kunnen verminder of zelf weg te nemen. Via de tip de werden gevonden op Kind&Gezin [^1] ontstnad het idee om een opslossing te ontwikkelen rond autoritten met kinderen.
+Tijdens lange autoritten stellen kinderen vaak vragen zoals “Hoe ver is het nog?” of  “Wanneer zijn we er?”. Wanneer deze vragen voortdurend worden herhaald, kan dit voor ouders na verloop van tijd vervelend worden of extra stress veroorzaken. Daarnaast komt het vaak voor dat kinderen beginnen te klagen dat ze zich vervelen en niet weten wat ze kunnen doen tijdens de rit.
 
-Het doel van dit project is zorgen dat de ouders minder stress ervaren in de auto tijdens lange autoritten. Met behulp van dit product de slimme reistafel, kunnen kinderen weten hoe ver het nog is. De slimme reistafel heeft verschillende opties waarmee de kinderen hun kunnen bezig houden, hierdoor gaan kinderen hun minder vervelen tijdens de lange autoritten. Ze weten wat ze kunnen doen en hierdoor laten ze hun ouders gerust en zagen ze minder, ouders kunnen geniet van de rit.  
+Het doel van dit project is om ervoor te zorgen dat ouders minder stress ervaren tijdens lange autoritten. Dit willen we bereiken met behulp van een product: de slimme reistafel. Met deze slimme reistafel kunnen kinderen zien hoe lang de reis nog duurt. Daarnaast biedt het product verschillende activiteiten waarmeer kinderen zich kunnen bezighouden tijdens de autorit. Hierdoor zullen kinderen zich minder snel vervelen. Ze weten wat ze kunnen doen, waardoor ze hun ouders minder storen en minder klagen. Op die manier kunnen ouders meer ontspannen en genieten van de rit.  
 
-Randvoorwaarden: 
--	Veiligheid: het is een product voor kinderen dus moet het kindvriendelijk zijn
--	Gebruiksvriendelijk: mag niet te ingewikkeld zijn zodat kinderen het gemakkelijk kunnen gebruiken en dat het voor de ouders niet te veel tijd kost om het instellen.
+Randvoorwaarden
+Bij het ontwerpen van dit product worden enkele belangrijke randvoorwaarden in acht genomen:
+-	Veiligheid: aangezien het product bedoeld is voor kinderen, moet het volledig kindvriendelijk en veilig zijn in gebruik.
+-	Gebruiksvriendelijk: het product mag niet te ingewikkeld zijn, zodat kinderen het gemakkelijk kunnen gebruiken en ouders niet veel tijd nodig hebben om het in te stellen.
 -	Instelbaar: het moet bruikbaar zijn in verschillende soorten auto’s.
--	Interactief: het moet kinderen kunnen actief kunnen betrekken, waardoor ze hun kunnen bezig houden. 
+-	Interactief: het product moet kinderen actief kunnen betrekken, zodat ze zich tijdens de autorit kunnen bezighouden.
 
 
 ## Inhoudstafel
@@ -68,12 +69,15 @@ Licht toe op welke manier je AI gebruikte in dit project.
 ### Definition
 * User testing wave 1 (N=4)
   * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQB0s_4DWfQJRJRYO2y44ifrAdeGrArp2FGqGG9SvXXnxME?e=Vafhw5)
-  * [Data](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQCeaFMlBSHFQaUw8P116vtMAbmY5bHHLD2_xF0_uIuUlMk?e=bxGm08)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBvdSbytfUQRILZvOpEJlyhAeMP9xYhXJjscbVXfAG8pVk?e=HlfzuQ)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDXwxCboCmeT7Q1F0Z1FZ5fAadoVVtmj6fI1KzgULRukyk?e=rgLkp3)
 * User testing wave 2 (N=4)
   * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAxiwArCR5gQLO2vSBqsSrUAfxrwx7yFBths7YoxMnzEPk?e=iNmwXa)
-  * [Data](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDwipJFF69LQ5qPSsUKXY4eAcZ2S4ZVyxsKVwYXO_2w-w4?e=cun0Lk)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAlmbvPl1FJQ4JwISDEuBveAVL6oLa9rK-QeRhxjEbybAo?e=XtmfPG)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQATEJAzmMSoR7gsz13dLPEmAeirwgxWSornx7Knz1WErIA?e=Gvc77c)
+
+ ### Development 1
+ * user testing (N=3)
+   *[Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBEI7ZYHQkxRZ8FVjG5rtYoAchVIknVt9idloouErzLUNM?e=VfcNxq)
+   *[Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDeXCYViK5eSIQ2HF5SQbTlAekZyyGTanoiKZwWNr2_ah4?e=aGjm0F)
 
 
 ## Licentie 
