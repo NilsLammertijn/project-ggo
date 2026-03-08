@@ -1,4 +1,4 @@
-# Slimme reistafel
+<img width="1920" height="1080" alt="heroshot" src="https://github.com/user-attachments/assets/0679872d-f768-4133-bf5f-d810450f6d16" /># Slimme reistafel
 Een reistafel om lange autoritten minder stressvol te maken.
 
 🛠️ Built by ``Leen Geenens`` & ``Nils Lammertijn``   
@@ -15,8 +15,10 @@ Door middel van interviews is in interactie gegaan met ouders en hun kinderen (2
 Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speeltafel kan het kind de rit meevolgen en kan het kind zich bezighouden in de auto. Hierdoor krijgt het kind minder de neiging om te vragen hoe lang het nog is, wat zorgt voor minder stress bij ouders.
 
 <p align="center">
- <img width="1920" height="1080" alt="de tafel steunt op de kinderstoel, met een kind in, het hangt niet meer vast aan de autostoel voor hun , zet de autostoel zoals ze zouden rijden, enkel de achterbank is zichtbaar, zodat het kind er op kan tekenen me" src="https://github.com/user-attachments/assets/258b1172-ecd7-4c63-a1f2-8c0bb328d974" />
+ <img width="1920" height="1080" alt="heroshot" src="https://github.com/user-attachments/assets/526d23c4-7754-40db-9469-db7fc52be72a" />
 </p>
+
+
 
 ## Introductie
 Ouders ervaren stress bij het opvoeden van hun jonge kinderen. Met de project proberen we een aspect waardoor ze stress ervaren te kunnen verminder of zelf weg te nemen. Via de tip de werden gevonden op Kind&Gezin [^1] werd er op het idee gekomen om iets rond reizen met de auto te doen. 
