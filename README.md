@@ -36,9 +36,9 @@ Randvoorwaarden:
 
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
-3. [Defintion](./docs/defition.md)
-4. [Design Requirements](.docs/design_requirements.md)
-5. [Bill of materials](.docs/bom.md)
+3. [Defintion](./docs/definition.md)
+4. [Design Requirements](./docs/design_requirements.md)
+5. [Bill of materials](./docs/bom.md)
 
 
 
