@@ -1,5 +1,7 @@
 use this folder to story the media files you show in your report you can show them using, e.g.
-![Uploading heroshot.png…]()
+<p align="center">
+ <img width="1920" height="1080" alt="heroshot" src="https://github.com/user-attachments/assets/526d23c4-7754-40db-9469-db7fc52be72a" />
+</p>
 
 
 
