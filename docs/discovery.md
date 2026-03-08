@@ -11,7 +11,7 @@ Met deze zaken in het achterhoofd werden er interviews met de gebruikers gedaan.
 
 
 ### Resultaten
-Tijdens het literatuur onderzoek werd er op de website van Kind & gezin gekeken, hierin waren er tips voor het reizen met kinderen. Bij verder literatuur onderzoek werden  verschillende tips en leuke spelletjes gevonden op te doen tijdens het autorijden. De tips die meeneem zijn dat je best een goeie planning maakt van wanneer je vertrekt tot de stop ’s die je maakt. Dat kinderen een cadeautje geven onderweg wel handig kan zijn, want dan hebben ze iets om naar uit te kijken en daarna om hun bezig mee te houden. (Voor de volledige respons zie bijlage literatuur rapport ) 
+Tijdens het literatuur onderzoek werd er op de website van Kind & gezin gekeken, hierin waren er tips voor het reizen met kinderen. Bij verder literatuur onderzoek werden  verschillende tips en leuke spelletjes gevonden op te doen tijdens het autorijden. De tips die meeneem zijn dat je best een goeie planning maakt van wanneer je vertrekt tot de stop ’s die je maakt. Dat kinderen een cadeautje geven onderweg wel handig kan zijn, want dan hebben ze iets om naar uit te kijken en daarna om hun bezig mee te houden.  
 	
 Bij het benchmark onderzoek dat werd gedaan werden er 10 verschillende producten gevonden die nu al gebruikt worden voor in de auto.  Uit de verschillende producten werd het volgende geconcludeerd:
 Er zijn nu al veel simples voor in de auto. Er zijn praktische tools zoals de reistafels en de Autostoel organizer die zorgen dat de kinderen gemakkelijker iets kunnen doen, maar na een tijdje weten ze niet meer wat ze kunnen doen en dan begint terug het zagen. 
