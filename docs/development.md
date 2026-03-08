@@ -65,6 +65,7 @@ Ten slotte werd er vast gesteld dat als de reistafel aan de stoel voor het kind 
  <img src="https://github.com/user-attachments/assets/7dd4eefb-ff14-4460-a114-f66da818a052" width="100%">
 </p>
 
+Voor het volledig zie [raport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBEI7ZYHQkxRZ8FVjG5rtYoAchVIknVt9idloouErzLUNM?e=VxyEBQ)
 ### Conclusie & implicaties
 Uit deze fase kan worden geconcludeerd dat de reMarkable-tablet een goede basis vormt voor het testen van interactie met een E-ink scherm. Toch moeten verschillende functies worden aangepast of verwijderd om het systeem beter geschikt te maken voor jonge kinderen.
 De belangrijkste aanpassingen bestaan uit het verwijderen van overbodige functies en het beperken van de keuzemogelijkheden, bijvoorbeeld bij de verschillende soorten pennen. Daarnaast moet de stylus uit één geheel bestaan, zodat het puntje niet kan worden verwijderd.
