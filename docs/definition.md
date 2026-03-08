@@ -47,7 +47,7 @@ Uit de tweede testfase kwamen de volgende inzichten:
 <p align="left">
   <img src="https://github.com/user-attachments/assets/54b2f559-fe8e-4692-aa1a-19dfa97aa236" width="32%">
   <img scr="https://github.com/user-attachments/assets/846554df-48d4-43e1-a37d-f8d66cd009d5" width="32%">
-  <img scr="https://github.com/user-attachments/assets/1c338b3b-17b7-41be-b0f6-7fc169a0f43d" width="32%">
+  <img scr="https://github.com/user-attachments/assets/bb9a0f43-2263-4c3a-a096-8e8e7365a37c" width="32%">
 </p>
 
 ### Conclusies & implicaties
