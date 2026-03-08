@@ -14,8 +14,8 @@ Door middel van interviews is in interactie gegaan met ouders en hun kinderen (2
 
 Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speeltafel kan het kind de rit meevolgen en kan het kind zich bezighouden in de auto. Hierdoor krijgt het kind minder de neiging om te vragen hoe lang het nog is, wat zorgt voor minder stress bij ouders.
 
-<p align="left">
- <img src="https://github.com/user-attachments/assets/526d23c4-7754-40db-9469-db7fc52be72a" width="32%"/>
+<p align="center">
+ <img width="1920" height="1080" alt="heroshot" src="https://github.com/user-attachments/assets/526d23c4-7754-40db-9469-db7fc52be72a" />
 </p>
 
 
