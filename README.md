@@ -19,7 +19,6 @@ Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speel
 </p>
 
 
-
 ## Introductie
 Ouders ervaren stress bij het opvoeden van hun jonge kinderen. Met de project proberen we een aspect waardoor ze stress ervaren te kunnen verminder of zelf weg te nemen. Via de tip de werden gevonden op Kind&Gezin [^1] ontstnad het idee om een opslossing te ontwikkelen rond autoritten met kinderen.
 Tijdens lange autoritten stellen kinderen vaak vragen zoals “Hoe ver is het nog?” of  “Wanneer zijn we er?”. Wanneer deze vragen voortdurend worden herhaald, kan dit voor ouders na verloop van tijd vervelend worden of extra stress veroorzaken. Daarnaast komt het vaak voor dat kinderen beginnen te klagen dat ze zich vervelen en niet weten wat ze kunnen doen tijdens de rit.
