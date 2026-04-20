@@ -1,4 +1,4 @@
-## Development
+## Development 1
 
 ### Doelstellingen
 Het doel van de eerste development face was om meer inzicht te krijgen in de interactie tussen jonge kinderen en een E-ink scherm. Daarnaast werd onderzocht welke soorten activiteiten kinderen tijdens autoritten kunnen uitvoeren met behulp van de slimme reistafel.
