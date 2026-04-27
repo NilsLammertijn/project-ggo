@@ -88,6 +88,11 @@ Er werd ook AI ingezet om de geschreven protocols en analayses qua vormgeving en
    * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBEI7ZYHQkxRZ8FVjG5rtYoAchVIknVt9idloouErzLUNM?e=VfcNxq)
    * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDeXCYViK5eSIQ2HF5SQbTlAekZyyGTanoiKZwWNr2_ah4?e=aGjm0F)
 
+### Development 2
+* user testing (N=3)
+  * [Protocel](https://ugentbe-my.sharepoint.com/:w:/g/personal/leen_geenens_ugent_be/IQDMlBP9rDomS4i0v74hk30nAe66F9jZPk91oX1ro1FgkH4?e=WbcJIU)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:w:/g/personal/leen_geenens_ugent_be/IQBZ9sd3IHh-R7WsecRfS9w1AWLzHJyBLMl864_9Qx29j4U?e=h4yPEj)
+
 
 ## Licentie 
 
