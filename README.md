@@ -40,8 +40,9 @@ Bij het ontwerpen van dit product worden enkele belangrijke randvoorwaarden in a
 3. [Defintion](./docs/definition.md)
 4. [Development_1](./docs/development_1.md)
 5. [Development_2](./docs/development_2.md)
-6. [Design Requirements](./docs/design_requirements.md)
-7. [Bill of materials](./docs/bom.md)
+6. [Development_3](./docs/development_3.md)
+7. [Design Requirements](./docs/design_requirements.md)
+8. [Bill of materials](./docs/bom.md)
 
 
 
