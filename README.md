@@ -66,15 +66,15 @@ Er werd ook AI ingezet om de geschreven protocols en analayses qua vormgeving en
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=6)
-  * [Protocol](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FLiteratuuronderzoek%20protocol%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)
-  * [Rapport](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FLiteratuuronderzoek%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBsOY9S5oS9QrdSrLsqgqQ1AdpNBm8m1VRr9Bd9f2GTZlk?e=UyS35o)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDzkuJf3-01TJQb0HLvGG-nAStBQKSF2qp8T9AY2jjgKZQ?e=KJAXkb)
 * Interviews (N=3)
-  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQCpDRAFCubWRoNCX4BOqMteASmGR8Utmmx-JtPzZPUnNZY?e=1sddvc)
-  * [Data](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQD2lrhOqkhjQ6cvSYqKfJp2AdrMBBrWfBUji-NFj3IgTJ8?e=WKi8q8)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAv0xHu3Ie7Rp43jPLUGzpSASbSV1Y2JQ3xaVyUicRO6I4?e=A0obeH)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQA9ukIdhH74QJSWliXNOJOzAZD9KHz2d_6u_1s58r3-KMQ?e=ukrQJk)
+  * [Data](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQCBhfi5NewwTY0-fNIIkftkAT1-CLzJRgIDdvMt3trKV0U?e=TcIXGe)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAEqDxpMk0bS7Dps-ySLsnuAeIYavCiZ_VNKWM42BDdsVo?e=MuEvbP)
 * Benchmarking (N=10)
-  * [protocol](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5Fbenchmark%20protocol%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)
-  * [Rapport](https://ugentbe-my.sharepoint.com/personal/leen_geenens_ugent_be/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject%2FLeenGeenens%5FBenchmark%20report%5Fopvoedstress%2Epdf&parent=%2Fpersonal%2Fleen%5Fgeenens%5Fugent%5Fbe%2FDocuments%2FDocumenten%2FLeen%2Fugent%2Ftweede%20jaar%2Feerste%20semester%2Fgebruiksgerichtontwerpen%2Fproject&ga=1)
+  * [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDBd6ShQOb5T73CXyujJ3-kAdzyOcG1jP8X4UJGCiZRhak?e=UGgj3j)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBykY66T8ktQ7JY6XUodjbwAbXW58qWUzjFe37AUNvj0t0?e=803W75)
     
 ### Definition
 * User testing wave 1 (N=4)

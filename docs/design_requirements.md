@@ -1,12 +1,12 @@
-## Design Requirements
+# Design Requirements
 
-### Overzicht van Design Requirements
+## Overzicht van Design Requirements
 
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
 |**algemeen**|
 |1.1|Het product moet kindvriendelijk zijn.|[Discovery](./discovery.md)||
-|1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruieken|[discovery](./discovery.md)||
+|1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruiken|[discovery](./discovery.md)||
 |1.3|Het product is geschikt voor lange autoritten|[discovery](./discovery.md)||
 |1.4|Het product moet gebruikt kunnen worden door zowel links- als rechtshandige kinderen.|[definition: wave1](./definition.md)||
 |1.5|Het product moet een aan-uit knop hebben.|[definition: wave2](./definition.md)||
@@ -15,7 +15,7 @@
 |**functionaliteit**|
 |2.1|Het product laat toe dat kinderen de weg kunnen meevolgen.|[discovery](./discovery.md)||
 |2.2|Het product laat toe dat kinderen weten wanneer ze gaan stoppen tijdens het rijden.|[discovery](./discovery.md)||
-|2.3|Het product laat toe dat kinereen er iets mee kunnen leren.|[discovery](./discovery.md)||
+|2.3|Het product laat toe dat kinderen er iets mee kunnen leren.|[discovery](./discovery.md)||
 |2.4|Het product laat toe kinderen dat er door interactie naar buiten gekeken wordt.|[discovery](./discovery.md)||
 |2.5|Het product laat toe de planning te kunnen draaien|[definition: wave 2](./definition.md)||
 |2.6|Het product laat toe dat er voldoende verschillende spelletjes zijn voor afwisseling tijdens het rijden|[development1](./development.md)||

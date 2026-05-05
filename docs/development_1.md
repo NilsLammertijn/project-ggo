@@ -1,9 +1,9 @@
-## Development 1
+# Development 1
 
-### Doelstellingen
+## Doelstellingen
 Het doel van de eerste development face was om meer inzicht te krijgen in de interactie tussen jonge kinderen en een E-ink scherm. Daarnaast werd onderzocht welke soorten activiteiten kinderen tijdens autoritten kunnen uitvoeren met behulp van de slimme reistafel.
 
-### Materialen & methoden
+## Materialen & methoden
 Voorafgaand aan de gebruikerstesten werd er een morfologische kaart gemaakt met verschillende mogelijkheden. 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/4df9b5ab-8ff6-42f8-a369-cbc1a56960a7" width="100%">
@@ -15,7 +15,7 @@ Op de reMarkable werd er 2 soorten activiteiten gezet:
 Deze werden geselecteerd op basis van de resultaten van het benchmark onderzoek en de interviews uit de discovery fase. Daarnaast werd er rekening mee gehouden dat de activiteiten in PDF-formaat moesten beschikbaar zijn, aangezien enkel dit formaat op de reMarkable kan worden geüpload.
 De kinderen konden tijdens de testen zelfstandig ontdekken welke activiteiten ze kunnen doen om het toestel. Tegerlijkertijd werden aan de ouders vragen gesteld over hun ervaringen en verwachtingen met betrekking tot het concept.
 
-### Resultaten
+## Resultaten
 Uit de testen met de kinderen kwam er dat een remarkable verschillende functie bevat dat er voor zorgen dat kinderen gefrustreerd geraken omdat ze niet weten wat ze er mee kunnen doen. 
 De volgende functie zijn overbodig: 
 - het kunnen aanduiden van noties om ze dan te kunnen verplaatsen
@@ -66,7 +66,7 @@ Ten slotte werd er vast gesteld dat als de reistafel aan de stoel voor het kind 
 </p>
 
 Voor het volledig zie [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDeXCYViK5eSIQ2HF5SQbTlAekZyyGTanoiKZwWNr2_ah4?e=e0jXaV)
-### Conclusie & implicaties
+## Conclusie & implicaties
 Uit deze fase kan worden geconcludeerd dat de reMarkable-tablet een goede basis vormt voor het testen van interactie met een E-ink scherm. Toch moeten verschillende functies worden aangepast of verwijderd om het systeem beter geschikt te maken voor jonge kinderen.
 De belangrijkste aanpassingen bestaan uit het verwijderen van overbodige functies en het beperken van de keuzemogelijkheden, bijvoorbeeld bij de verschillende soorten pennen. Daarnaast moet de stylus uit één geheel bestaan, zodat het puntje niet kan worden verwijderd.
 De kinderen moeten zicht 2 à 4 uur mee kunnen bezighouden. Hiervoor moeten de kinderen dus voldoende keuze hebben in verschillende activiteiten dat ze kunnen doen. 

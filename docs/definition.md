@@ -1,15 +1,15 @@
-## Definition
-### Doestellingen
+# Definition
+## Doestellingen
 Het doel tijdens deze fase was om te achterhalen welke functies de reistafel allemaal moest hebben, hoe ze er moeten uitzien en wat ze allemaal moeten kunnen.
 -	Hoe moet de lay-out van de reistafel eruitzien?  
 -	Hoe groot mag het schermpje zijn? 
 -	Waar moet het schermpjes zich positioneren in de reistafel? 
 -	Waar moet de weg-balk komen en de grootte ervan? 
-### Materiaal & methoden
+## Materiaal & methoden
 Om deze vragen te beantoorden werden voornamelijk gebruikerstesten uitgevoerd. Deze gebruikerstesten werden opgedeeld in twee waves. De resultaten van wave 1 werden gebruikt om de prototypes voor wave 2 te maken. Voor de gebruikerstesten werd telkens een protocol geschreven om de testen voor te bereiden. Voor de testen zelf werden kartonnen prototypes gemaakt om een ruw idee voor te kunnen stellen aan de gebruiker en om te kijken hoe de gebruiker in interactie gaat met het prototype.
 
 
-### Resultaten
+## Resultaten
 Resultaten wave 1
 
 Uit de eerste testfase is gebleken dat het prototype met meerdere kleine schermen de beste optie is. 
@@ -53,7 +53,7 @@ Uit de tweede testfase kwamen de volgende inzichten:
 
 Voor het volledig [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQATEJAzmMSoR7gsz13dLPEmAeirwgxWSornx7Knz1WErIA?e=pibqbZ)
 
-### Conclusies & implicaties
+## Conclusies & implicaties
 Op basis van de gebruikerstesten werden verschillende nieuwe design requirements geformuleerd.
 Uit de resultaten blijkt dat een reistafel met meerdere kleinere schermen beter aansluit bij de voorkeuren van gebruikers dan één groot scherm. Een groot scherm wordt als te afleidend ervaren en bovendien gebruiken kinderen in het dagelijks leven al vaak digitale schermen. Een ontwerp dat minder afhankelijk is van schermgebruik wordt daarom als wenselijk beschouwd.
 Daarnaast blijkt dat fysieke knoppen in veel gevallen de voorkeur krijgen, vooral voor de interactie tussen ouders en kinderen. Fysieke knoppen bieden een duidelijke en eenvoudige manier van bediening.

@@ -1,9 +1,9 @@
-## Development 2
+# Development 2
 
-### Doelstellingen
+## Doelstellingen
 Het doel van de fase is om via antropometrische analyse te zorgen dat het product zo minmogelijk cognitieve belasting vergt van het lichaam van de kinderen. Hiervoor wordt er gekeken dat de kinderen op zo een ergonomische manier kunnen schrijven/ tekenen op de slimme reistafel. 
 
-### Materialen & methoden
+## Materialen & methoden
 Voor de testen met de testpersonen werden er tabellen opgezocht met antropometrische maten van kinderen tussen de 2-6 jaar oud. De tabellen dat gebruikt worden komen van DINBelg. De afmetingen die nodig zijn voor de test staan er niet in maar kunnen wel afgeleid worden door het verschil te bereken van wel gegeven maten. 
 ![alt text](<../img/DINBelg tabel1.png>)
 ![alt text](<../img/DINBelg tabel2.png>)
@@ -18,7 +18,7 @@ Er werd een prototype gemaakte met volgende afmetingen: breedte:335mm, de lengte
 Om te testen of de pols genoeg ruimte heeft om te kunnen rusten bij het tekenen of schrijven om de reistafel. 
 ![alt text](../img/proto_volledig.jpg)
 
-### Resultaten
+## Resultaten
 Met de tabellen van DINBelg werden de eerste berekeningen gemaakt om de gewenste maten de krijgen. 
 
 Dikte
@@ -58,7 +58,7 @@ Door de knoppen in een ruitvorm te zetten, is het duidelijk dat de cirkel is om 
 
 Als het scherm aan de andere kant wordt gehangen dan de schrijfhand van de kinderen, heeft het kind voldoende plaats voor zijn pols om te kunnen schrijven/tekenen. Dus bij linkshandige kinderen wordt het scherm best rechts geplaatst en bij rechtshandige kinderen wordt het scherm best links geplaatst. 
 
-### Conclusie & implicaties
+## Conclusie & implicaties
 Uit deze fase is gebleken dat de dikte van de reistafel tussen de waarde 50-80 mm moet zijn, zodat de kinderen gemakkelijk kunnen schrijven/tekenen zonder te veel last te hebben van hun arm. De lengte mag maximaal 250 mm lang zijn, zodat de reistafel stabiel op hun schoot kan blijven liggen. De breedte van de reistafel mag maximaal tussen de 450-550mm breedte zijn zodat het kan worden opgehangen aan de rugleuning van de stoel voor hen. 
 
 Het scherm met de instructie voor de activiteiten die met behulp van knoppen kan bediend worden. Voor het scherm is het belangrijk dat de instructie het volledig scherm bedenken en dat er niet te veel andere zaken opstaan. Die zorgen enkel voor afleiding. De knoppen zijn best in een ander kleur dan de rest zodat ze opvallen, ook is het handig dat ze er een beetje uitsteken. 
