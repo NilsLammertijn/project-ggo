@@ -1,4 +1,4 @@
-## Bill of materials
+# Bill of materials
 Materialen voor huidigprototype
 - karton voor de omhuizing
 - gsm als interfaces met overzicht activiteiten

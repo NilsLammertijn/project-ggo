@@ -1,4 +1,4 @@
-## Methodologie
+# Methodologie
 <p align="center">
   <img src="https://github.com/user-attachments/assets/95eaf2ed-2408-4959-a163-576229c224cb" width="100%">
 </p>

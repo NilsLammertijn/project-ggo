@@ -1,6 +1,6 @@
-## Design Requirements
+# Design Requirements
 
-### Overzicht van Design Requirements
+## Overzicht van Design Requirements
 
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
