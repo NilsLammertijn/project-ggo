@@ -86,8 +86,11 @@ Er werd ook AI ingezet om de geschreven protocols en analayses qua vormgeving en
 
  ### Development 1
  * user testing (N=3)
-   * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBEI7ZYHQkxRZ8FVjG5rtYoAchVIknVt9idloouErzLUNM?e=VfcNxq)
-   * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDeXCYViK5eSIQ2HF5SQbTlAekZyyGTanoiKZwWNr2_ah4?e=aGjm0F)
+   * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBCnCu6lsSJSbS7qKnXV_jAAcjgXQTpkaig9gDiJ5SgncA?e=qPQs5i)
+   * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAQOjf7KNq0QptzuPCe4pUQAfXGzriW5OZ8wT3CeBtPVn4?e=ttGb4c)
+ * benchmark onderzoek (N=7)  
+   * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQC2s0uATP20SIWTSXYJkkfQAcauSKc3awHIw-vJhxW0fWU?e=Nrd0Ic)
+   * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAQOjf7KNq0QptzuPCe4pUQAfXGzriW5OZ8wT3CeBtPVn4?e=lXLpL2)
 
 ### Development 2
 * user testing (N=3)
