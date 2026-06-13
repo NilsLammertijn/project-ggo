@@ -22,10 +22,11 @@ In de laatste fase van de development werd er aandacht besteed aan de materiaalk
 
 Deze oplossing biedt de kinderen veel activiteiten waardoor ze hun minder snel gaan vervelen tijdens lange autoritten. Hierdoor gaan ze minder vragen stellen en ervaren de ouders minder stress tijdens de autoritten. 
 
+![alt text](img/README/heroshot.png)
 
-<p align="center">
- <img width="1920" height="1080" alt="heroshot" src="https://github.com/user-attachments/assets/526d23c4-7754-40db-9469-db7fc52be72a" />
-</p>
+storyboard
+![alt text](img/README/storyboard1.jpg)
+
 
 
 ## Introductie
@@ -84,9 +85,16 @@ Ook was het niet altijd even makkelijk om momenten te vinden om interviews en ge
 
 
 ## Noot inzake het gebruik van AI
-AI werd gebruikt bij het genereren van activiteiten die kunnen gedaan worden tijdens het benchmarkonderzoek. Ook werd er aan CHat-GPt gevraagd op ideeën te genereren, deze werden enkel gebruikt als inspiratie. 
-Viscom werd gebruikt om verschillende heroshots te maken van de concepten die bedacht waren. 
-Er werd ook AI ingezet om de geschreven protocols en analayses qua vormgeving en taalkundig beter te maken. 
+AI werd gebruikt bij het genereren van activiteiten die kunnen gedaan worden tijdens de verschillende benchmarkonderzoeken. Ook werd er aan Chat-GPt gevraagd op ideeën te genereren, deze werden enkel gebruikt als inspiratie. 
+
+Vizcom werd gebruikt om verschillende heroshots te maken van de concepten die bedacht waren. Om de verschillende materialen op de twee concepten te plaatsen in development 3 werd er ook vizcom gebruikt. In die fase werd AI ook gebruikt om verschillende interfaces te maken. 
+
+Het werkende interfaces werd via figma make gegenereerd. 
+Het storyboard werd met behelp van AI gemaakt. De verschillende stappen werden ingevoerd en gevraagd om er tekeningen bij te maken. 
+
+Er werd ook AI ingezet om de geschreven protocollen en analyses qua vormgeving en taalkundig beter te maken.
+
+
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=6)
