@@ -54,13 +54,14 @@ Puzzels, zoek de X aantal verschillen, sudoku (met symbolen), verhaaltjes/leerri
 Daarnaast gaven de ouders aan dat de pictogrammen in de interface duidelijk en herkenbaar moeten zijn, zodat kinderen onmiddellijk begrijpen waarvoor ze dienen. Maar de kinderen mogen niet naar de instellingen kunnen gaan. 
 Ten slotte werd er vast gesteld dat als de reistafel aan de stoel voor het kind wordt vastgemaakt er een te grote afstand moet overbrugd worden. Daarom zou het beter zijn zoals in de testen dat het kind de tafel op de schoot heeft, hierbij wordt de tafel vastgemaakt aan de autostoel van het kind.
 
-Voor de volledige analyse van de gebruikerstest zie [report] (https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAQOjf7KNq0QptzuPCe4pUQAfXGzriW5OZ8wT3CeBtPVn4?e=ttGb4c)
+Voor de volledige analyse van de gebruikerstest zie [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAQOjf7KNq0QptzuPCe4pUQAfXGzriW5OZ8wT3CeBtPVn4?e=ttGb4c)
 
 Bij het benchmark onderzoek dat na de gebruikerstesten is gedaan is er vooral gekeken naar vakantieblaadjes en leerblaadjes. Hier uit zijn verschillende extra activiteiten uitgekomen dat op een E-ink scherm kunnen gedaan worden. De volgende activiteiten kwamen uit dit onderzoek: ![alt text](<../img/development1/activiteiten uit benchmarkonderzoek development1.png>)
 
 Ook werd er input gevraagd aan AI voor nog extra activiteiten die kunnen worden gedaan op een E-ink scherm. De volgende zaken kwamen hierbij aanbod: Verbind-opdrachten, sorteer-opdrachten met zones, slepen naar de juiste plek, waar hoort dit? …
 
-Voor een overzicht van de volledige lijst met activiteiten voor op de interactieve reistafel zie [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAQOjf7KNq0QptzuPCe4pUQAfXGzriW5OZ8wT3CeBtPVn4?e=lXLpL2)
+Voor een overzicht van de volledige lijst met activiteiten voor op de interactieve reistafel zie [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAQOjf7KNq0QptzuPCe4pUQAfXGzriW5OZ8wT3CeBtPVn4?e=lXLpL2)  
+
   
 
 ## Conclusie & implicaties

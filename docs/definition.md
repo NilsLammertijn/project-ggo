@@ -5,7 +5,7 @@ Het doel van deze fase is het achterhalen welke functie van de reistafel het bel
 ## Materiaal & methoden
 Om de doelstellingen te kunnen beantwoorden werden voornamelijk gebruikerstesten met de ouders uitgevoerd. Deze gebruikerstesten werden opgedeeld in twee waves. De resultaten van wave 1 werden gebruikt om de prototypes voor de tweede wave te maken. De prototypes die werden gebruikt bij beide testen bestaan uit kartonnen prototypes, zodat de gebruiker een idee had wat er juist bedoelt weg en om de interactie tussen de gebruiker en het prototype te kunnen zien. 
 
-Voor de volledige beschrijving van wave 1 zie [protocol wave 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQA0s36TH-BcRqcUoV6L5BbmAVYPRV7PpvblXWWcrTy6Vyo?e=tjwE5S) en voor wave 2 zie [protocol wav2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBwOTY-YPs5RocPrKWpzmyOAT_3n6RWwHoO8IfFhkctzaU?e=EPU3H7)
+Voor de volledige beschrijving van wave 1 zie [protocol wave 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQA0s36TH-BcRqcUoV6L5BbmAVYPRV7PpvblXWWcrTy6Vyo?e=tjwE5S) en voor wave 2 zie [protocol wave 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBwOTY-YPs5RocPrKWpzmyOAT_3n6RWwHoO8IfFhkctzaU?e=EPU3H7)
 
 
 ## Resultaten

@@ -1,7 +1,9 @@
 # Bill of materials
 Om de laatste versie van het prototype te maken zijn volgende element nodig: 
 -	MDF 4 mm de boven-, onder-, achterkant en de stukken waar de reMarkable op rusten worden gelasercut met volgende bestand (.dxf)
-    [lasercut](c:\Users\Leen\OneDrive - UGent\Documenten\Leen\ugent\tweede jaar\project GGO\voor-, achter-, zijkant en binnenstukken.dxf)
+    
+    [lasercut](<../img/bom/voor-, achter-, zijkant en binnenstukken.dxf>)
+    
 
 -	De ander zijkant worden geprint met een 3D-printer PLA met volgende STL-bestand:
     [zijkant](../../3D-model/zijkanten.3mf)
