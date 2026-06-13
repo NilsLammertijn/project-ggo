@@ -10,9 +10,18 @@ Een reistafel om lange autoritten minder stressvol te maken.
 ## Samenvatting
 Bij lange autoritten kunnen jonge kinderen zich vaak vervelen. Hierbij komt vaak de vraag: 'Hoe lang is het nog?'. Dit kan bij veel ouders stress opleveren. Hier willen we een oplossing voor vinden.
 
-Door middel van interviews is in interactie gegaan met ouders en hun kinderen (2-6 jaar). Hieruit is gebleken dat het begin van de rit meestal goed gaat, maar dat na een tijdje de kinderen niet meer weten wat ze nog kunnen doen. Er is ook aan benchmarking gedaan. Hieruit is gebleken dat er wel oplossingen zijn, maar dat deze de kinderen niet lang genoeg bezig houden. Dit is dan wat uiteindelijk voor stress zorgt bij de ouders.
+Door middel van interview, een literatuurstudie en een benchmark onderzoek in de discovery fase is gebleken dat er al veel verschillende oplossingen bestaan, maar dat kinderen die snel beu geraken en zich dan beginnen te vervelen. Uit deze fase werd gehaald dat de oplossing best een soort van tafeltje is. 
 
-Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speeltafel kan het kind de rit meevolgen en kan het kind zich bezighouden in de auto. Hierdoor krijgt het kind minder de neiging om te vragen hoe lang het nog is, wat zorgt voor minder stress bij ouders.
+In de definition fase zijn er in twee verschillende wave met prototypes naar de gebruiker gegaan. Op de implicatie die hieruit zijn gekomen is er verder kunnen gebouwd worden. Één van de zaken die uit deze fase kwam is dat kinderen de weg moeten kunnen volgen, en hierdoor ook weten wanneer dat ze gaan stoppen. 
+
+In de eerste development fase werd er verder gegaan met het concept waarbij de oppervlakte van de tafel een E-ink scherm is.  Hieruit bleek dat het scherm dat op dat moment werkt gebruikt functie had dat overbodig waren. Om te zorgen dat de kinderen hun niet beginnen te vervelen moeten er voldoende activiteiten beschikbaar zijn, in deze fase werd dan ook een lijst opgesteld met allemaal verschillende activiteiten. 
+
+In de volgende fase van de development werd er vooral aandacht besteed aan hoe groot de tafel mag zijn. Dit gebeurden aan de hand van een antropometrische analyse. Waarbij zowel via de DINBelg tabel als met afmetingen van de testpersonen werd gewerkt. 
+
+In de laatste fase van de development werd er aandacht besteed aan de materiaalkeuze voor de reistafel en hoe dat de interface van de reistafel er moet uitzien. In deze fase is er ook besloten dat de tafel uit maar één scherm gaat bestaan die alle functie heeft en niet langer met verschillende schermen werkt per functie. 
+
+Deze oplossing biedt de kinderen veel activiteiten waardoor ze hun minder snel gaan vervelen tijdens lange autoritten. Hierdoor gaan ze minder vragen stellen en ervaren de ouders minder stress tijdens de autoritten. 
+
 
 <p align="center">
  <img width="1920" height="1080" alt="heroshot" src="https://github.com/user-attachments/assets/526d23c4-7754-40db-9469-db7fc52be72a" />
@@ -20,17 +29,12 @@ Onze oplossing hiervoor is een slimme speeltafel voor in de auto. Met deze speel
 
 
 ## Introductie
-Ouders ervaren stress bij het opvoeden van hun jonge kinderen. Met de project proberen we een aspect waardoor ze stress ervaren te kunnen verminder of zelf weg te nemen. Via de tip de werden gevonden op Kind&Gezin [^1] ontstnad het idee om een opslossing te ontwikkelen rond autoritten met kinderen.
-Tijdens lange autoritten stellen kinderen vaak vragen zoals “Hoe ver is het nog?” of  “Wanneer zijn we er?”. Wanneer deze vragen voortdurend worden herhaald, kan dit voor ouders na verloop van tijd vervelend worden of extra stress veroorzaken. Daarnaast komt het vaak voor dat kinderen beginnen te klagen dat ze zich vervelen en niet weten wat ze kunnen doen tijdens de rit.
+Ouders ervaren stress bij het opvoeden van hun jonge kinderen. Met het project proberen we een aspect waardoor ze stress ervaren te kunnen verminder of zelf weg te nemen. Via de tip de werden gevonden op Kind&Gezin [^1] ontstond het idee om een oplossing te ontwikkelen rond autoritten met kinderen.
 
-Het doel van dit project is om ervoor te zorgen dat ouders minder stress ervaren tijdens lange autoritten. Dit willen we bereiken met behulp van een product: de slimme reistafel. Met deze slimme reistafel kunnen kinderen zien hoe lang de reis nog duurt. Daarnaast biedt het product verschillende activiteiten waarmeer kinderen zich kunnen bezighouden tijdens de autorit. Hierdoor zullen kinderen zich minder snel vervelen. Ze weten wat ze kunnen doen, waardoor ze hun ouders minder storen en minder klagen. Op die manier kunnen ouders meer ontspannen en genieten van de rit.  
+Tijdens lange autoritten stellen kinderen vaak vragen zoals “Hoe ver is het nog?” of “Wanneer zijn we er?”. Wanneer deze vragen voortdurend worden herhaald, kan dit voor ouders na verloop van tijd vervelend worden of extra stress veroorzaken. Daarnaast komt het vaak voor dat kinderen beginnen te klagen dat ze zich vervelen en niet weten wat ze kunnen doen tijdens de rit.
 
-Randvoorwaarden
-Bij het ontwerpen van dit product worden enkele belangrijke randvoorwaarden in acht genomen:
--	Veiligheid: aangezien het product bedoeld is voor kinderen, moet het volledig kindvriendelijk en veilig zijn in gebruik.
--	Gebruiksvriendelijk: het product mag niet te ingewikkeld zijn, zodat kinderen het gemakkelijk kunnen gebruiken en ouders niet veel tijd nodig hebben om het in te stellen.
--	Instelbaar: het moet bruikbaar zijn in verschillende soorten auto’s.
--	Interactief: het product moet kinderen actief kunnen betrekken, zodat ze zich tijdens de autorit kunnen bezighouden.
+Het doel van dit project is om ervoor te zorgen dat ouders minder stress ervaren tijdens lange autoritten. Dit willen we bereiken met behulp van een product: de interactieve reistafel. Met deze tool kunnen kinderen zien hoelang de reis nog duurt. Daarnaast biedt het product verschillende activiteiten waarmee de kinderen hun kunnen bezighouden tijdens de autorit. Ze weten wat ze kunnen doen, waardoor ze hun ouders minder storen en minder klagen. Op die manier kunnen ouders meer ontspannen en genieten van de rit.  
+
 
 
 ## Inhoudstafel
