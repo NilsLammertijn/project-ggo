@@ -22,8 +22,8 @@ Benchmarkonderzoek
 Bij het benchmark onderzoek dat werd gedaan werden er tien verschillende producten gevonden die nu al gebruikt worden voor in de auto. 
 Uit de analyse van deze producten kwamen verschillende inzichten naar voren. Er bestaan reeds diverse hulpmiddelen voor gebruik in de auto. Enerzijds zijn er praktische oplossingen zoals reistafels en autostoelorganizers die het voor kinderen gemakkelijker maken om activiteiten te doen. Na verloop van tijd weten kinderen echter vaak niet meer wat ze met deze hulpmiddelen kunnen doen, waardoor ze zich opnieuw beginnen te vervelen.
 Daarnaast bestaan er verschillende spelletjes voor in de auto. Ook deze bieden echter slechts tijdelijke afleiding. Na een bepaalde tijd verliezen kinderen hun interesse en zoeken ze opnieuw naar andere activiteiten. 
-Schermen en ingebouwde tv-systemen bieden wel de mogelijkheid om voortdurend nieuwe films of programma’s af te spelen. Toch brengen ook deze oplossingen nadelen met zich mee. Kinderen brengen tegenwoordig al veel tijd door achter schermen en bovendien zijn schermen minder geschikt voor kinderen die snel wagenziek worden. 
-![alt text](<../img/overzicht benchmark onderzoek discovery.jpg>) 
+Schermen en ingebouwde tv-systemen bieden wel de mogelijkheid om voortdurend nieuwe films of programma’s af te spelen. Toch brengen ook deze oplossingen nadelen met zich mee. Kinderen brengen tegenwoordig al veel tijd door achter schermen en bovendien zijn schermen minder geschikt voor kinderen die snel wagenziek worden.
+![alt text](<../img/discovery/overzicht benchmark onderzoek discovery.jpg>)  
 Zie volledig benchmark onderzoek in het [benchmark rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBykY66T8ktQ7JY6XUodjbwAbXW58qWUzjFe37AUNvj0t0?e=803W75)
 
 

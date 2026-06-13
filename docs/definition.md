@@ -18,8 +18,7 @@ Er waren nog ander opmerkingen die de ouders gaven, zou zo er een mogelijkheid k
 
 Het moet zowel voor links- als rechtshandige kinderen gebruikt kunnen worden. Omdat het voor kinderen is moet alles met kleuren en symbolen duidelijk gemaakte worden zodat ze goed weten waarvoor alles dient. 
 
-  
-![alt text](<../img/prototypes wave 1 definition.jpg>)
+![alt text](<../img/definition/prototypes wave 1 definition.jpg>)  
 
 Voor de volledige beschrijving van de analyse zie [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDGqbV3u6EXTKZ31fz4pSUXASw-eatrck0N1P3p4iy9lr0?e=naaeLq).
 
@@ -32,8 +31,7 @@ De mogelijkheid om de planning of de knoppen te verwijderen is niet noodzakelijk
 Het scherm voor de planning die in het prototype werd gebruikt was een goede grootte, als het kleiner zou zijn, zou het niet goed leesbaar meer zijn.
 Om te kunnen zorgen dat zowel links -als rechtshandige kinderen het kunnen gebruiken moet het scherm zowel links als rechts kunnen geplaatst worden. Want kinderen die linkshandig zijn willen het scherm liefst recht hebben en rechtshandige willen dit omgekeerd.
 
-  
-![alt text](<../img/prototypes wave2 definition.jpg>)
+![alt text](<../img/definition/prototypes wave2 definition.jpg>)  
 
 Voor een volledige beschrijving van de analyse zie [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDjlcKoNx9nRI_dEEi9EP3AAbrubO676Pz-PecjZFWP6io?e=3kfdao)
 
@@ -50,7 +48,7 @@ Het moet zowel voor links-als rechtshandige kinderen gebruikt kunnen worden, om 
 
 
 Met deze conclusie werd een eerste schets van de volledige reistafel gemaakt.
-![alt text](<../img/schets na definition fase.jpg>)
+![alt text](<../img/definition/schets na definition fase.jpg>)
 
 [Requirement](design_requirements.md)
 |ID|Design Requirement|Status|

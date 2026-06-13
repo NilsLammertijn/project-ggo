@@ -8,15 +8,15 @@ Het doel van de eerste development face was om meer inzicht te krijgen in de int
 ## Materialen & methoden
 In deze fase werd er eerst een analyse gedaan van de verschillende taken die de reistafel moet kunnen. 
 
-![alt text](<../img/taken analyse development 1.png>)
+![alt text](<../img/development1/taken analyse development 1.png>)
 
 Ook werd er een storyboard gemaakt om te weten te komen wat het juist allemaal moet kunnen en waarop gefocust moet worden. 
 
-![alt text](<../img/storyboard_development 1.png>)
+![alt text](<../img/development1/storyboard_development 1.png>)
 
 Voorafgaand aan de gebruikerstesten werd er een morfologische kaart gemaakt met verschillende mogelijkheden. 
 
-![alt text](<../img/morfologische matrix development 1.png>)
+![alt text](<../img/development1/morfologische matrix development 1.png>)
 
 
 Op de reMarkable werd er 2 soorten activiteiten gezet:
@@ -39,11 +39,11 @@ Het kunnen aanduiden en verplaatsen van noties, de typefunctie, het overzicht va
 Daarnaast werden enkele functies geïdentificeerd die aangepast moeten worden:
 Het aantal verschillende soorten pennen moet beperkt worden, de knop acties ongedaan maken moet groter, …
 
-![alt text](<../img/functie reMarkable.png>)
+![alt text](<../img/development1/functie reMarkable.png>)
 
 De lijndikte van de pen moet groter, om zo sneller grote vakken te kunnen inkleuren. Het pennetje moet uit één geheel bestaan en de kleurplaat er onder mag niet verdwijnen.
 
-![alt text](<../img/kleurplaten ingekleurd reMarkable.png>)
+![alt text](<../img/development1/kleurplaten ingekleurd reMarkable.png>)
 
 Sommige kinderen hadden niet direct door wat ze moesten doen, daarom wordt er voorgesteld om instructies toe te voegen bij de verschillende activiteiten. 
 
@@ -56,7 +56,7 @@ Ten slotte werd er vast gesteld dat als de reistafel aan de stoel voor het kind 
 
 Voor de volledige analyse van de gebruikerstest zie [report] (https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAQOjf7KNq0QptzuPCe4pUQAfXGzriW5OZ8wT3CeBtPVn4?e=ttGb4c)
 
-Bij het benchmark onderzoek dat na de gebruikerstesten is gedaan is er vooral gekeken naar vakantieblaadjes en leerblaadjes. Hier uit zijn verschillende extra activiteiten uitgekomen dat op een E-ink scherm kunnen gedaan worden. De volgende activiteiten kwamen uit dit onderzoek: ![alt text](<../img/activiteiten uit benchmarkonderzoek development1.png>)
+Bij het benchmark onderzoek dat na de gebruikerstesten is gedaan is er vooral gekeken naar vakantieblaadjes en leerblaadjes. Hier uit zijn verschillende extra activiteiten uitgekomen dat op een E-ink scherm kunnen gedaan worden. De volgende activiteiten kwamen uit dit onderzoek: ![alt text](<../img/development1/activiteiten uit benchmarkonderzoek development1.png>)
 
 Ook werd er input gevraagd aan AI voor nog extra activiteiten die kunnen worden gedaan op een E-ink scherm. De volgende zaken kwamen hierbij aanbod: Verbind-opdrachten, sorteer-opdrachten met zones, slepen naar de juiste plek, waar hoort dit? …
 

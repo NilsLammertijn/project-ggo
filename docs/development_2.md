@@ -5,19 +5,20 @@ Het doel van de fase is om via antropometrische analyse te zorgen dat het produc
 
 ## Materialen & methoden
 Voor de testen met de testpersonen werden er tabellen opgezocht met antropometrische maten van kinderen tussen de 2-6 jaar oud. De tabellen dat gebruikt worden komen van DINBelg. De afmetingen die nodig zijn voor de test staan er niet in maar kunnen wel afgeleid worden door het verschil te bereken van wel gegeven maten.  
-![alt text](<../img/DINBelg tabel1.png>)
-![alt text](<../img/DINBelg tabel2.png>)
-Om te kunnen testen of het scherm met de instructie voor de activiteiten zichtbaar genoeg is werden er twee verschillende formaten van dezelfde interface gemaakt. Deze interface wordt getoond op een gsm, waarbij een deel van het scherm verborgen is.  
-![alt text](../img/proto_scherm_1.jpg)
-![alt text](../img/proto_scherm_2.jpg)
+![alt text](<../img/development2/DINBelg tabel1.png>)
+![alt text](<../img/development2/DINBelg tabel2.png>)
+Om te kunnen testen of het scherm met de instructie voor de activiteiten zichtbaar genoeg is werden er twee verschillende formaten van dezelfde interface gemaakt. Deze interface wordt getoond op een gsm, waarbij een deel van het scherm verborgen is. 
+ ![alt text](../img/development2/proto_scherm_1.jpg)
+ ![alt text](../img/development2/proto_scherm_2.jpg)
+
 
 Om de knoppen te testen werden er twee soorten gemaakt. De ene groep knoppen hebben dezelfde kleur als de rest van het kader en komen er langs boven niet veel uit. De andere groep daarentegen is in een andere kleur geprint en ook groter zodat de knoppen er langs boven uitsteken. 
-![alt text](../img/proto_scherm_3.jpg)
+![alt text](../img/development2/proto_scherm_3.jpg)
 
 Er werd een prototype gemaakte met volgende afmetingen: breedte:335mm, de lengte:275mm en dikte:21mm 
 Om te testen of de pols genoeg ruimte heeft om te kunnen rusten bij het tekenen of schrijven om de reistafel. 
 
-![alt text](../img/proto_volledig.jpg)
+![alt text](../img/development2/proto_volledig.jpg)
 
 Voor de volledige beschrijving van de test zie [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDUOeMw54VtQppBvbNR2KBoAfUh34X_jwG1SVIq3OIuXU0?e=oJCBRX)
 
@@ -25,8 +26,8 @@ Voor de volledige beschrijving van de test zie [protocol](https://ugentbe-my.sha
 Met de tabellen van DINBelg werden de eerste berekeningen gemaakt om de gewenste maten de krijgen. 
 
 Dikte
-Om maximale en minimale dikte van de reistafel te weten moet het verschil worden berekend tussen de ellebooghoogte en de dijbeenhoogte. Dit wordt gedaan voor de verschillende leeftijden.  
-![alt text](<../img/tabel_berekening_elleboog&dijbeen hoogte.png>)
+Om maximale en minimale dikte van de reistafel te weten moet het verschil worden berekend tussen de ellebooghoogte en de dijbeenhoogte. Dit wordt gedaan voor de verschillende leeftijden. 
+![alt text](<../img/development2/tabel_berekening_elleboog&dijbeen hoogte.png>)
 
 De donkergroene zijn de verschillen tussen de waarde van dezelfde groep (P5-P5 of P95-P95). De licht groene zijn de verschillen tussen de waarden van de andere (P5-P95 of P95-P5).
 De licht groene worden weggelaten omdat deze combinatie niet veel voorkomt. 
@@ -35,21 +36,21 @@ Er wordt dan gekeken naar de donkergroene waarde, de kleinste waarde is hierbij 
 De reistafel moet tussen de 50-90 mm dikte hebben. 
 
 Er werd ook gekeken naar de verschillen bij de testpersonen.
-N: 145 – 81 = 64![alt text](../img/foto_auto_N_devel3.jpg)
-J: 140 -80 = 60![alt text](../img/foto_auto_J_devel3.jpg)
-V: 75-70 =5![alt text](../img/foto_auto_V_devel3_2.jpg)
+N: 145 – 81 = 64![alt text](../img/development2/foto_auto_N_devel3.jpg)
+J: 140 -80 = 60!![alt text](../img/development2/foto_auto_J_devel3.jpg)
+V: 75-70 =5![alt text](../img/development2/foto_auto_V_devel3_2.jpg)
 
 Deze getallen vallen binnen het interval, buiten die van V. niet. Dit kan te maken hebben met dat hij bij de meest afmetingen in de groep P5 zit en voor zijn ellebooghoogte behoort hij tot de groep P1.
 
 Lengte
 Voor de maximale lengte van de reistafel moet er nagegaan worden wat de bovenbeen lengte is, zodat de reistafel er kan op rusten zonder dat het de neiging heeft om van de benen te kantelen. Hierbij moet de reistafel 1/2 à 2/3 rusten op de bovenbenen van de kinderen. 
 
-Eerst wordt de lengte van de bovenbenen van kinderen tussen 2-6 jaar vergeleken door BINBelg. Hierbij wordt het verschil van bil-knieschijfdiepte en buikdiepte genomen.  
-![alt text](<../img/tabel_berekening_knieschijf&buik diepte.png>)
+Eerst wordt de lengte van de bovenbenen van kinderen tussen 2-6 jaar vergeleken door BINBelg. Hierbij wordt het verschil van bil-knieschijfdiepte en buikdiepte genomen. 
+![alt text](<../img/development2/tabel_berekening_knieschijf&buik diepte.png>)
 
 Hier wordt er weer gekeken naar de donkergroene vakjes. De kleinste waarde is hierbij 117 mm. De reistafel moet min. 1/2 op de bovenbenen steunen dus mag de reistafel max. 234mm lang zijn. 
 Maar er moet nog rekening gehouden worden met de grote van het scherm en de plaats dat de pols nodig heeft daarom wordt de max. lengte vergroot naar 250mm.
-![alt text](../img/foto_auto_V_devel3_1.jpg)
+![alt text](../img/development2/foto_auto_V_devel3_1.jpg)
 
 Breedte
 Voor de breedte van de slimme reistafel wordt er gekeken naar de breedte van gemiddelde autostoel. Zodat als het aan de stoel voor hen bevestig zou worden dat het er niet te veel zou uitkomen. De gem. waarde van de achter leuning van de voorste autostoelen is tussen de 450-550 mm. 
