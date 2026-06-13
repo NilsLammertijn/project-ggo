@@ -4,10 +4,10 @@
 Het doel van de fase is om via antropometrische analyse te zorgen dat het product zo minmogelijk cognitieve belasting vergt van het lichaam van de kinderen. Hiervoor wordt er gekeken dat de kinderen op zo een ergonomische manier kunnen schrijven/ tekenen op de slimme reistafel. 
 
 ## Materialen & methoden
-Voor de testen met de testpersonen werden er tabellen opgezocht met antropometrische maten van kinderen tussen de 2-6 jaar oud. De tabellen dat gebruikt worden komen van DINBelg. De afmetingen die nodig zijn voor de test staan er niet in maar kunnen wel afgeleid worden door het verschil te bereken van wel gegeven maten. 
+Voor de testen met de testpersonen werden er tabellen opgezocht met antropometrische maten van kinderen tussen de 2-6 jaar oud. De tabellen dat gebruikt worden komen van DINBelg. De afmetingen die nodig zijn voor de test staan er niet in maar kunnen wel afgeleid worden door het verschil te bereken van wel gegeven maten.  
 ![alt text](<../img/DINBelg tabel1.png>)
 ![alt text](<../img/DINBelg tabel2.png>)
-Om te kunnen testen of het scherm met de instructie voor de activiteiten zichtbaar genoeg is werden er twee verschillende formaten van dezelfde interface gemaakt. Deze interface wordt getoond op een gsm, waarbij een deel van het scherm verborgen is. 
+Om te kunnen testen of het scherm met de instructie voor de activiteiten zichtbaar genoeg is werden er twee verschillende formaten van dezelfde interface gemaakt. Deze interface wordt getoond op een gsm, waarbij een deel van het scherm verborgen is.  
 ![alt text](../img/proto_scherm_1.jpg)
 ![alt text](../img/proto_scherm_2.jpg)
 
@@ -16,20 +16,23 @@ Om de knoppen te testen werden er twee soorten gemaakt. De ene groep knoppen heb
 
 Er werd een prototype gemaakte met volgende afmetingen: breedte:335mm, de lengte:275mm en dikte:21mm 
 Om te testen of de pols genoeg ruimte heeft om te kunnen rusten bij het tekenen of schrijven om de reistafel. 
+
 ![alt text](../img/proto_volledig.jpg)
+
+Voor de volledige beschrijving van de test zie [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDUOeMw54VtQppBvbNR2KBoAfUh34X_jwG1SVIq3OIuXU0?e=oJCBRX)
 
 ## Resultaten
 Met de tabellen van DINBelg werden de eerste berekeningen gemaakt om de gewenste maten de krijgen. 
 
 Dikte
-Om maximale en minimale dikte van de reistafel te weten moet het verschil worden berekend tussen de ellebooghoogte en de dijbeenhoogte. Dit wordt gedaan voor de verschillende leeftijden. 
+Om maximale en minimale dikte van de reistafel te weten moet het verschil worden berekend tussen de ellebooghoogte en de dijbeenhoogte. Dit wordt gedaan voor de verschillende leeftijden.  
 ![alt text](<../img/tabel_berekening_elleboog&dijbeen hoogte.png>)
 
 De donkergroene zijn de verschillen tussen de waarde van dezelfde groep (P5-P5 of P95-P95). De licht groene zijn de verschillen tussen de waarden van de andere (P5-P95 of P95-P5).
 De licht groene worden weggelaten omdat deze combinatie niet veel voorkomt. 
 
 Er wordt dan gekeken naar de donkergroene waarde, de kleinste waarde is hierbij 47 mm en de grootste waarde is 86 mm. Hierbij zou de reistafel tussen de 47-86 mm zijn. 
-De reistafel moet tussen de 50-80 mm dikte hebben. 
+De reistafel moet tussen de 50-90 mm dikte hebben. 
 
 Er werd ook gekeken naar de verschillen bij de testpersonen.
 N: 145 – 81 = 64![alt text](../img/foto_auto_N_devel3.jpg)
@@ -41,7 +44,7 @@ Deze getallen vallen binnen het interval, buiten die van V. niet. Dit kan te mak
 Lengte
 Voor de maximale lengte van de reistafel moet er nagegaan worden wat de bovenbeen lengte is, zodat de reistafel er kan op rusten zonder dat het de neiging heeft om van de benen te kantelen. Hierbij moet de reistafel 1/2 à 2/3 rusten op de bovenbenen van de kinderen. 
 
-Eerst wordt de lengte van de bovenbenen van kinderen tussen 2-6 jaar vergeleken door BINBelg. Hierbij wordt het verschil van bil-knieschijfdiepte en buikdiepte genomen. 
+Eerst wordt de lengte van de bovenbenen van kinderen tussen 2-6 jaar vergeleken door BINBelg. Hierbij wordt het verschil van bil-knieschijfdiepte en buikdiepte genomen.  
 ![alt text](<../img/tabel_berekening_knieschijf&buik diepte.png>)
 
 Hier wordt er weer gekeken naar de donkergroene vakjes. De kleinste waarde is hierbij 117 mm. De reistafel moet min. 1/2 op de bovenbenen steunen dus mag de reistafel max. 234mm lang zijn. 
@@ -57,18 +60,24 @@ Door de knoppen in een andere kleur te maken vallen ze beter op dan dat ze in de
 Door de knoppen in een ruitvorm te zetten, is het duidelijk dat de cirkel is om naar links te gaan en het vierkant om naar rechts te gaan. De twee andere knoppen dienen om terug naar het begin scherm te gaan. 
 
 Als het scherm aan de andere kant wordt gehangen dan de schrijfhand van de kinderen, heeft het kind voldoende plaats voor zijn pols om te kunnen schrijven/tekenen. Dus bij linkshandige kinderen wordt het scherm best rechts geplaatst en bij rechtshandige kinderen wordt het scherm best links geplaatst. 
+ 
+Voor de volledige analyse zie [report](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBmpgBU7w52Qob940C-XvyIAQkTjLqLay4jtR5HIUptejY?e=7LjPHJ)
 
 ## Conclusie & implicaties
-Uit deze fase is gebleken dat de dikte van de reistafel tussen de waarde 50-80 mm moet zijn, zodat de kinderen gemakkelijk kunnen schrijven/tekenen zonder te veel last te hebben van hun arm. De lengte mag maximaal 250 mm lang zijn, zodat de reistafel stabiel op hun schoot kan blijven liggen. De breedte van de reistafel mag maximaal tussen de 450-550mm breedte zijn zodat het kan worden opgehangen aan de rugleuning van de stoel voor hen. 
+Uit deze fase is gebleken dat de dikte van de reistafel tussen de waarde 50-90 mm moet zijn, zodat de kinderen gemakkelijk kunnen schrijven/tekenen zonder te veel last te hebben van hun arm. De lengte mag maximaal 250 mm lang zijn, zodat de reistafel stabiel op hun schoot kan blijven liggen. De breedte van de reistafel mag maximaal tussen de 450-550mm breedte zijn zodat het kan worden opgehangen aan de rugleuning van de stoel voor hen. 
 
 Het scherm met de instructie voor de activiteiten die met behulp van knoppen kan bediend worden. Voor het scherm is het belangrijk dat de instructie het volledig scherm bedenken en dat er niet te veel andere zaken opstaan. Die zorgen enkel voor afleiding. De knoppen zijn best in een ander kleur dan de rest zodat ze opvallen, ook is het handig dat ze er een beetje uitsteken. 
 
 Het scherm wordt best links gangen bij rechtshandige kinderen en omgekeerd voor de linkshandige zodat hun pols en arm niet in de weg liggen om naar de instructie te kijken en ze voldoende plaats hebben om hun pols te laten rusten tijdens het schrijven/tekenen. 
 
-De volgende implicaties werden uit deze fase gehaald:
-- De hoogte van de reistafel moet tussen het interval  50-80 mm blijven.
-- De lengte van de reistafel mag maximaal 250 mm lang zijn.
-- De breedte van de reistafel mag maximaal tussen  450-550 mm breed zijn.
-- Het scherm met de instructie moet links en rechts kunnen geplaatst worden.
-- De afbeelding op het scherm met de instructie moet de volledige oppervlakte vullen.
-- De knoppen moeten een andere kleur hebben dan de rest.
+
+[Requirement](design_requirements.md)
+|ID|Design Requirement|Status|
+|:---|:---|:---:|
+|**algemeen**|
+|1.8|De hoogte van de reistafel moet tussen het interval  50-80 mm blijven.||
+|1.9|De lengte van de reistafel mag maximaal 250 mm lang zijn.||
+|1.10|De breedte van de reistafel mag maximaal tussen  450-550 mm breed zijn.||
+|2.10|De instructies moeten zowel links of rechts zichtbaar kunnen worden.||
+|2.11|Het instructie scherm moet volledig gevult zijn met de afbeelding met de instructies.||
+|3.6|De knoppen moeten een andere kleur hebben dan de rest.||
