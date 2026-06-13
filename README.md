@@ -97,6 +97,17 @@ Er werd ook AI ingezet om de geschreven protocols en analayses qua vormgeving en
   * [Protocel](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDUOeMw54VtQppBvbNR2KBoAfUh34X_jwG1SVIq3OIuXU0?e=oJCBRX)
   * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBmpgBU7w52Qob940C-XvyIAQkTjLqLay4jtR5HIUptejY?e=7LjPHJ)
 
+### Development 3
+* Benchmarking (N=25)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAgOXl4BKsST4TTx-lkhGCuAR8QBzfbV6wIKOcLK6Hyqlw?e=94fxT4)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQCn0NCOSy-FRY_s_01SUZUoAYyWM-Ukq_UtEgcAYgyZkZw?e=ARREih)
+* Vizcom 
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQClaNHlPnNfRb8-E1A3zRcEAbOe5JkYHGbXo6QsSlmQQS4?e=9DgPFt)
+  * [Data](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQCXcG6AaL96Qri21RBXC1eEAaJnOyWiBkO0aM1lSeifjeA?e=XUymAJ)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBJ5BVL9g5HRIaLeKU-P3lqARdZYzXEXV_QADPiaYXmOlU?e=DPlNZU)
+* Gebruikerstesten (N=3)
+  * [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQA5T7osnT4JTLyreP_IvsSWAfxawWgDY_HQ4Hzu6qRL-28?e=rgX5ir)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQC07V_hKWhUSrUJTMcC-kzQAfWNEOaPMXsrUpt90p2JYbI?e=7gW1OD)
 
 ## Licentie 
 
