@@ -51,11 +51,31 @@ Bij het ontwerpen van dit product worden enkele belangrijke randvoorwaarden in a
 ## Kritische reflectie
 In dit project zijn er aspecten die goed lopen en anderen lopen minder goed. 
 
-In de eerste fase, de discovery, is er op verschillende mogelijkeheden onderzocht of probleem wel degelijk een probleem was. Zo is er eerst een literatuuronderzoek geweest, gevolgd door een benchmark onderzoek. Met de bevindingen die uit deze onderzoeken zijn gewonnen, zijn er interviews gedaan met ouders van jonge kinderen. Om zo na te gaan of de bevindingen die tijdens de eerder bekomen onderzoeken wel klopten met de ondervindingen van de ouders zelf. 
+Discovery
+In de eerste fase, de discovery, is er op verschillende mogelijkheden onderzocht of probleem wel degelijk een probleem was. Zo is er eerst een literatuuronderzoek geweest, gevolgd door een benchmark onderzoek. Met de bevindingen die uit deze onderzoeken zijn gewonnen, zijn er interviews gedaan met ouders van jonge kinderen. Om zo na te gaan of de bevindingen die tijdens de eerder bekomen onderzoeken wel klopten met de ondervindingen van de ouders zelf. 
 
+Definition
 In de definition fase werd er zowel in wave 1 als in wave 2 gefocust op hoe de reistafel er moet uitzien. Dit was achteraf niet de beste optie, want het doel van de slimme reistafel is om kinderen bezig te houden tijdens lange autoritten. Om hiervoor te zorgen is het belangrijk dat er een duidelijk interface is dat kinderen gemakkelijk kunnen gebruiken. Daarom was het beter geweest dat één van beide waves hierover was gegaan. 
 
-In de volgende fase is hierwel op gefocust om de interface kindvriendelijk te maken. Hierbij werd ook een onderzoek gedaan naar welke spelletjes de kinderen allemaal zouden kunnen doen op de slimme reistafel. Dit werd gedaan op basis van de benchmark van in de vorige fase en door dit tijdens de test aan ouders te vragen. Er moet wel nog verder benchmark onderzoek gedaan worden naar welke activiteiten allemaal mogelijk zijn en welke niet. De planning en de fysieke knoppen moeten nog verder uitgewerkt worden, net als de app voor de ouders waar ze alles op kunnen aanpassen. 
+Development 1 
+In de volgende fase is hier wel op gefocust om de interface kindvriendelijk te maken. Hierbij werd ook een onderzoek gedaan naar welke spelletjes de kinderen allemaal zouden kunnen doen op de slimme reistafel. Dit werd gedaan op basis van de benchmark van in de vorige fase en door dit tijdens de test aan ouders te vragen. 
+Na de gebruikers testen werden duidelijk dat een aantal functie die het scherm nu had niet noodzakelijk zijn en ander moeten aangepast worden. 
+Op het einde van deze fase is er nog een benchmark onderzoek gedaan om de lijst met verschillende activiteiten aan te vullen
+
+Development 2 
+In deze fase werd er gefocust op antropometrische analyse, hierbij werden de maten genomen uit de DINBelg deze dateert van 2005 dus er kunnen verschillen zitten in afmetingen van de kinderen nu. Ook werden de verschillend maten die nodig waren bij de kinderen opgemeten, hierbij kunnen meetfouten zijn gemaakt. 
+Bij het analyseren en beslissen tussen welke intervallen de afmetingen moeten zitten is er afgerond naar mooiere getalen en werden de extreme gevallen weggelaten. Hierdoor wordt er een deel van de doelgroep uitgesloten. 
+
+Development 3
+In deze fase werd er gekeken naar het materiaal gebruik voor de reistafel en hoe dat de interface er moet uitzien. 
+Hiervoor werden verschillend materialen op het prototype gezet met behulp van AI. Met afbeeldingen hiervan werd er naar de gebruiker gegaan. Dit had het nadeel dat kinderen het niet konden voelen. Voor de onderkant van de tafel werden wel fysieke soorten moes en kussen meegenomen. 
+De interfaces die werden meegenomen waren enkel statisch de kinderen konden et niet op tikken. 
+Om de kinderen te laten beslissen welke interfaces, welk materiaal en uit wat de onderkant moet bestaan, krijgen ze 10 muntjes per fase die ze konden verdelen over de verschillend keuzes die ze op dat moment hadden. Omdat er werd gewerkt met jonge kinderen was de rede achter hun keuze moeilijk te achterhalen en werd er beroep gedaan op wat dat de ouders dachten, zij kennen hun kinderen het best. 
+
+Algemeen 
+Er werd getest met jonge kinderen waardoor de gevonden resultaten altijd goed moesten worden gereflecteerd omdat kinderen niet altijd goed kunnen zeggen wat ze slecht en goed vinden. 
+Ook was het niet altijd even makkelijk om momenten te vinden om interviews en gebruikerstesten te kunnen uitvoeren. Of om andere responderen te vinden om de gebruikerstesten of interview mee te kunnen doen omdat ze binnen de doelgroep van ouders met kinderen tussen de 3 en 6 jaar. 
+
 
 
 
