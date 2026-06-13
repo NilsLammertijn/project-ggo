@@ -69,16 +69,16 @@ De belangrijkste aanpassingen bestaan uit het verwijderen van overbodige functie
 De kinderen moeten zicht 2 à 4 uur mee kunnen bezighouden. Hiervoor moeten de kinderen dus voldoende keuze hebben in verschillende activiteiten dat ze kunnen doen. 
 
 [Requirement](design_requirements.md)
-|ID|Design Requirement|Status|
-|:---|:---|:---:|
+|ID|Design Requirement|
+|:---|:---:|
 |**algemeen**|
-|1.6|Het product laat toe dat kinderen zich er 2 à 4 uur mee kunnen bezighouden||
-|1.7|Het product laat toe de tafel te bevestigen aan de kinderstoel van het kind.||
+|1.6|Het product laat toe dat kinderen zich er 2 à 4 uur mee kunnen bezighouden|
+|1.7|Het product laat toe de tafel te bevestigen aan de kinderstoel van het kind.|
 |**functionaliteit**|
-|2.6|Het product laat toe dat er voldoende verschillende spelletjes zijn voor afwisseling tijdens het rijden||
-|2.7|Het product laat toe om met een pennetje te kunnen tekenen op het grondvlak van de reistafel||
-|2.8|Het product laat toe dat kinderen begeleid kunnen worden bij bepaalde activiteiten.||
-|2.9|Het product laat niet toe dat het puntje van het pennetje afneembaar is.||
+|2.6|Het product laat toe dat er voldoende verschillende spelletjes zijn voor afwisseling tijdens het rijden|
+|2.7|Het product laat toe om met een pennetje te kunnen tekenen op het grondvlak van de reistafel|
+|2.8|Het product laat toe dat kinderen begeleid kunnen worden bij bepaalde activiteiten.|
+|2.9|Het product laat niet toe dat het puntje van het pennetje afneembaar is.|
 |**vormgeving & beleving**|
-|3.4|Het product heeft een makkelijk te interpreteren interface voor de doelgroep||
-|3.5|Het product laat toe dat de kleurplaat zichtbaar blijft als er wordt overgetekend||
+|3.4|Het product heeft een makkelijk te interpreteren interface voor de doelgroep|
+|3.5|Het product laat toe dat de kleurplaat zichtbaar blijft als er wordt overgetekend|

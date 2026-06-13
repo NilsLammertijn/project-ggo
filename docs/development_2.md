@@ -73,12 +73,12 @@ Het scherm wordt best links gangen bij rechtshandige kinderen en omgekeerd voor 
 
 
 [Requirement](design_requirements.md)
-|ID|Design Requirement|Status|
-|:---|:---|:---:|
+|ID|Design Requirement|
+|:---|:---:|
 |**algemeen**|
-|1.8|De hoogte van de reistafel moet tussen het interval  50-80 mm blijven.||
-|1.9|De lengte van de reistafel mag maximaal 250 mm lang zijn.||
-|1.10|De breedte van de reistafel mag maximaal tussen  450-550 mm breed zijn.||
-|2.10|De instructies moeten zowel links of rechts zichtbaar kunnen worden.||
-|2.11|Het instructie scherm moet volledig gevult zijn met de afbeelding met de instructies.||
-|3.6|De knoppen moeten een andere kleur hebben dan de rest.||
+|1.8|De hoogte van de reistafel moet tussen het interval  50-80 mm blijven.|
+|1.9|De lengte van de reistafel mag maximaal 250 mm lang zijn.|
+|1.10|De breedte van de reistafel mag maximaal tussen  450-550 mm breed zijn.|
+|2.10|De instructies moeten zowel links of rechts zichtbaar kunnen worden.|
+|2.11|Het instructie scherm moet volledig gevult zijn met de afbeelding met de instructies.|
+|3.6|De knoppen moeten een andere kleur hebben dan de rest.|

@@ -51,16 +51,16 @@ Dit product werd gebruikt als basis voor verder ontwerp, omdat hierbij verschill
 Het volledig zonder iets digitaal doen wordt moeilijk omdat de kinderen het zo gewoon zijn om iets digitaal te hebben. Een combinatie van fysieke en digitale interactie wordt daarom door ouders als de meest geschikte oplossing beschouwd.
 
 [Requirement](design_requirements.md)
-|ID|Design Requirement|Status|
-|:---|:---|:---:|
+|ID|Design Requirement|
+|:---|:---:|
 |**algemeen**|
-|1.1|Het product moet kindvriendelijk zijn.||
-|1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruiken||
-|1.3|Het product is geschikt voor lange autoritten||
+|1.1|Het product moet kindvriendelijk zijn.|
+|1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruiken|
+|1.3|Het product is geschikt voor lange autoritten|
 |**functionaliteit**|
-|2.1|Het product laat toe dat kinderen de weg kunnen meevolgen.||
-|2.2|Het product laat toe dat kinderen weten wanneer ze gaan stoppen tijdens het rijden.||
-|2.3|Het product laat toe dat kinderen er iets mee kunnen leren.||
-|2.4|Het product laat toe kinderen dat er door interactie naar buiten gekeken wordt.||
+|2.1|Het product laat toe dat kinderen de weg kunnen meevolgen.|
+|2.2|Het product laat toe dat kinderen weten wanneer ze gaan stoppen tijdens het rijden.|
+|2.3|Het product laat toe dat kinderen er iets mee kunnen leren.|
+|2.4|Het product laat toe kinderen dat er door interactie naar buiten gekeken wordt.|
 |**vormgeving & beleving**|
-|3.1|Her product moet kinderen mmotiveren om er mee te spelen.||
+|3.1|Her product moet kinderen mmotiveren om er mee te spelen.|

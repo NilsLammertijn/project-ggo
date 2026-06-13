@@ -98,17 +98,16 @@ Zie [Figma](https://pro-cheer-01182747.figma.site/ ) voor de interface
 ![alt text](<../img/development3/uiteindeljike prototype.jpg>)
 
 [Requirement](design_requirements.md)
-|ID|Design Requirement|Status|
-|:---|:---|:---:|
+|ID|Design Requirement|
+|:---|:---:|
 |**algemeen**|
-|1.11|Het materiaal van de tafel moet onderhoudsvriendelijk zijn.||
-|1.12|De tafel moet hygiënisch zijn, schoongemaakt kunnen worden.||
-|1.13|Het pennetje met een dikke punt hebben.||
-|1.14|De onderkant van de tafel moet een kussen bevatten.||
-|**functionaliteit**|
+|1.11|Het materiaal van de tafel moet onderhoudsvriendelijk zijn.|
+|1.12|De tafel moet hygiënisch zijn, schoongemaakt kunnen worden.|
+|1.13|Het pennetje met een dikke punt hebben.|
+|1.14|De onderkant van de tafel moet een kussen bevatten.|
 |**vormgeving & beleving**|
-|3.7|De tafel moet uit 1 scherm bestaa.||
-|3.8|De planning van de tafel moet een thema hebben.||
-|3.9|De tafel moet felle kleuren hebben.||
-|3.10|De tafel moet uit meerdere kleuren bestaan.||
-|3.11|Het pennetje moet driehoekige vorm hebben.||
+|3.7|De tafel moet uit 1 scherm bestaa.|
+|3.8|De planning van de tafel moet een thema hebben.|
+|3.9|De tafel moet felle kleuren hebben.|
+|3.10|De tafel moet uit meerdere kleuren bestaan.|
+|3.11|Het pennetje moet driehoekige vorm hebben.|

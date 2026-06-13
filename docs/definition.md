@@ -51,14 +51,14 @@ Met deze conclusie werd een eerste schets van de volledige reistafel gemaakt.
 ![alt text](<../img/definition/schets na definition fase.jpg>)
 
 [Requirement](design_requirements.md)
-|ID|Design Requirement|Status|
-|:---|:---|:---:|
+|ID|Design Requirement|
+|:---|:---:|
 |**algemeen**|
-|1.4|Het product moet gebruikt kunnen worden door zowel links- als rechtshandige kinderen.||
-|1.5|Het product moet een aan-uit knop hebben.||
+|1.4|Het product moet gebruikt kunnen worden door zowel links- als rechtshandige kinderen.|
+|1.5|Het product moet een aan-uit knop hebben.|
 |**functionaliteit**|
-|2.4|Het product laat toe kinderen dat er door interactie naar buiten gekeken wordt.||
-|2.5|Het product laat toe de planning te kunnen draaien||
+|2.4|Het product laat toe kinderen dat er door interactie naar buiten gekeken wordt.|
+|2.5|Het product laat toe de planning te kunnen draaien|
 |**vormgeving & beleving**|
-|3.2|Het product moet zoweinig mogelijk scherm hebben.||
-|3.3|Het product laat toe dat de fysieke knoppen stevig bevestigd kunnen worden.||
+|3.2|Het product moet zoweinig mogelijk scherm hebben.|
+|3.3|Het product laat toe dat de fysieke knoppen stevig bevestigd kunnen worden.|
