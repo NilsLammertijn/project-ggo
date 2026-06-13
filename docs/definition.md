@@ -1,78 +1,66 @@
 # Definition
 ## Doestellingen
-Het doel tijdens deze fase was om te achterhalen welke functies de reistafel allemaal moest hebben, hoe ze er moeten uitzien en wat ze allemaal moeten kunnen.
--	Hoe moet de lay-out van de reistafel eruitzien?  
--	Hoe groot mag het schermpje zijn? 
--	Waar moet het schermpjes zich positioneren in de reistafel? 
--	Waar moet de weg-balk komen en de grootte ervan? 
+Het doel van deze fase is het achterhalen welke functie van de reistafel het belangrijkste zijn en hoe er uit ziet. Hierbij wordt er gekeken naar hoe de lay-out van de reistafel er moet uitzien, of er schermen moeten zijn en hoe groot deze mogen zijn. De planning waar de kinderen de weg op kunnen volgen gepositioneerd moeten worden. 
+
 ## Materiaal & methoden
-Om deze vragen te beantoorden werden voornamelijk gebruikerstesten uitgevoerd. Deze gebruikerstesten werden opgedeeld in twee waves. De resultaten van wave 1 werden gebruikt om de prototypes voor wave 2 te maken. Voor de gebruikerstesten werd telkens een protocol geschreven om de testen voor te bereiden. Voor de testen zelf werden kartonnen prototypes gemaakt om een ruw idee voor te kunnen stellen aan de gebruiker en om te kijken hoe de gebruiker in interactie gaat met het prototype.
+Om de doelstellingen te kunnen beantwoorden werden voornamelijk gebruikerstesten met de ouders uitgevoerd. Deze gebruikerstesten werden opgedeeld in twee waves. De resultaten van wave 1 werden gebruikt om de prototypes voor de tweede wave te maken. De prototypes die werden gebruikt bij beide testen bestaan uit kartonnen prototypes, zodat de gebruiker een idee had wat er juist bedoelt weg en om de interactie tussen de gebruiker en het prototype te kunnen zien. 
+
+Voor de volledige beschrijving van wave 1 zie [protocol wave 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQA0s36TH-BcRqcUoV6L5BbmAVYPRV7PpvblXWWcrTy6Vyo?e=tjwE5S) en voor wave 2 zie [protocol wav2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBwOTY-YPs5RocPrKWpzmyOAT_3n6RWwHoO8IfFhkctzaU?e=EPU3H7)
 
 
 ## Resultaten
 Resultaten wave 1
+Uit de eerste testfase is gebleken dat het prototype met meerdere kleine schermen de beste optie is. Omdat de ouders dan zelf kunnen beslissen welke schermen aan of uit staan. 
 
-Uit de eerste testfase is gebleken dat het prototype met meerdere kleine schermen de beste optie is. 
-Voor de indeling van de tafel met de meerdere schermen zijn er gelijkenissen tussen de verschillende gebruikers:
--	Het scherm voor de planning van de reis wordt bij voorkeur bovenaan geplaatst. 
--	De interactie tuusen kinderen en de ouders gebeurt best via fysieke knoppen.
--	Er moet een mogelijkheid zijn om het scherm uit te schakelen.
+Dit prototype konden de gebruikers zelf de verschillende schermen positioneren tegenover elkaar aan de had van velcro. Hierbij waren er een aantal gelijkenissen tussen de verschillende gebruikers, zou hebben ze allemaal het scherm voor de planning bovenaan geplaatst. Volgens de ouders moet de interactie tussen kinderen en de ouders gebeuren via fysieke knoppen omdat op deze manier een scherm minder kan komen, ook moet er een mogelijkheid zijn om de verschillende scherm uit te kunnen schakelen. 
+Er waren ook een aantal verschillen, zo vonden een aantal van de ouders het niet nodig dat er een systeem is waarmee de kinderen kunnen communiceren en de grootte voor het scherm van de opdrachten mocht bij de enen groter zijn dan bij de ander. 
+Er waren nog ander opmerkingen die de ouders gaven, zou zo er een mogelijkheid kunnen zijn om de planning en de knoppen uitgeklapt kunnen worden en de scherm moet de mogelijkheid hebben om te verwijden zodat het tafeloppervlakte volledig kan gebruikt worden.  
 
-Er waren ook verschillende meningen tussen gebruikers: 
--	Het scherm voor de opdrachten mocht bij de ene groter dan bij de andere
--	Sommige gebruikers vonden dat communicatie met de ouders via het systeem niet noodzakelijk is.
+Het moet zowel voor links- als rechtshandige kinderen gebruikt kunnen worden. Omdat het voor kinderen is moet alles met kleuren en symbolen duidelijk gemaakte worden zodat ze goed weten waarvoor alles dient. 
 
-Andere opmerkingen:
--	De planning en de knoppen zouden misschien kunnen uitgeklapt worden.
--	Er zou een mogelijkheid kunnen zijn om het scherm tijdelijk te laten verdwijnen, zodat het tafeloppervlak volledig gebruikt kan worden.
--	Rekening houden met links- en rechtshandige kinderen
--	Alles met kleuren en symbolen goed duidelijk maken. Vooral bij de planning, want jonge kinderen kunnen nog geen klok lezen en hebben niet altijd een goed tijdsbesef.
   
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/69f4e235-7d1a-4829-8eb0-4ac81b8929c0" width="32%">
-  <img src="https://github.com/user-attachments/assets/48aa04dd-b5df-4b3c-a627-c9ce3a756a12" width="32%">
-  <img src="https://github.com/user-attachments/assets/fa36c3e6-15f1-4dbf-93a3-678885ea38ae" width="32%">
-</p>
+![alt text](<../img/prototypes wave 1 definition.jpg>)
 
-Voor het volledig [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDXwxCboCmeT7Q1F0Z1FZ5fAadoVVtmj6fI1KzgULRukyk?e=yl8bd4).
+Voor de volledige beschrijving van de analyse zie [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDGqbV3u6EXTKZ31fz4pSUXASw-eatrck0N1P3p4iy9lr0?e=naaeLq).
 
 Resultaten wave 2
-Uit de tweede testfase kwamen de volgende inzichten:
--	Het zou goed zijn als de planning altijd zichtbaar is. 
--	De mogelijkheid om de planning of knoppen te verwijderen is niet noodzakelijk, wel dat er een mogelijkheid is om ze uit te zetten. Het scherm voor de spelletjes kunnen uitzetten of omdraaien zou handig zijn. Ze zijn er dan niet van afgeleid en zien het niet. 
--	Het kunnen bewegen of omdraaien van iets moet best met een kinderslot gebeuren, want kinderen vinden het leuk om met alles te spelen en als ze met iets kunnen bewegen gaan ze dat doen als ze zich vervelen. Daarom zouden de fysieke knoppen best op iets vastzitten zonder dat ze kunnen bewegen. 
--	Het omdraaien van het speelscherm mag enkel kunnen gedaan worden door de ouder. Een voorbeeld hiervan is een extra klipje dat moet worden ingedrukt of het systeem dat soms gebruikt wordt bij het deksel van batterijcompartimenten. 
--	Het scherm voor de planning heeft de goede grootte, want als het kleiner was, zou het minder leesbaar zijn als de tafel tegen de stoel wordt geklapt. 
--	Om er ook te voor kunnen zorgen dat het zowel links als rechts kan geplaatst worden, zodat het handig is voor zowel linkshandige als rechtshandige kinderen, is het best dat het scherm eruit gehaald kan worden en dan omgedraaid kan worden dan dat het met een draaisysteem werkt zoals in prototype 3.
-  
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/b700c7e6-7b01-4235-b38b-cc4a6e798a13" width="32%">
-  <img src="https://github.com/user-attachments/assets/ae34e9a3-2dc0-44e3-bd84-aa0d90c5e402" width="32%">
-  <img src="https://github.com/user-attachments/assets/cf7beee0-ff19-40b8-b7b7-4548dea57c4b" width="32%">
-</p>
+Voor de tweede wave testen werden de prototypes gebaseerd op de eerste wave. 
+De inzichten die uit de tweede testfase werd gekomen. De planning is best altijd zichtbaar zodat kinderen altijd weten hoe lang het nog is. 
 
-Voor het volledig [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQATEJAzmMSoR7gsz13dLPEmAeirwgxWSornx7Knz1WErIA?e=pibqbZ)
+De mogelijkheid om de planning of de knoppen te verwijderen is niet noodzakelijk, wel moet er een mogelijkheid zijn om ze uit te kunnen zetten of te kunnen draaien zodat het niet meer zichtbaar is. Hierbij moet er rekening gehouden worden dat bij alles wat er beweegt of draait een kinderslot op moet komen zodat kinderen er niet te veel mee prutsen en het zo sneller kapot gaat. Dus op die manier kan enkel de ouders het bewegen en niet de kinderen. 
+
+Het scherm voor de planning die in het prototype werd gebruikt was een goede grootte, als het kleiner zou zijn, zou het niet goed leesbaar meer zijn.
+Om te kunnen zorgen dat zowel links -als rechtshandige kinderen het kunnen gebruiken moet het scherm zowel links als rechts kunnen geplaatst worden. Want kinderen die linkshandig zijn willen het scherm liefst recht hebben en rechtshandige willen dit omgekeerd.
+
+  
+![alt text](<../img/prototypes wave2 definition.jpg>)
+
+Voor een volledige beschrijving van de analyse zie [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDjlcKoNx9nRI_dEEi9EP3AAbrubO676Pz-PecjZFWP6io?e=3kfdao)
 
 ## Conclusies & implicaties
-Op basis van de gebruikerstesten werden verschillende nieuwe design requirements geformuleerd.
 Uit de resultaten blijkt dat een reistafel met meerdere kleinere schermen beter aansluit bij de voorkeuren van gebruikers dan één groot scherm. Een groot scherm wordt als te afleidend ervaren en bovendien gebruiken kinderen in het dagelijks leven al vaak digitale schermen. Een ontwerp dat minder afhankelijk is van schermgebruik wordt daarom als wenselijk beschouwd.
-Daarnaast blijkt dat fysieke knoppen in veel gevallen de voorkeur krijgen, vooral voor de interactie tussen ouders en kinderen. Fysieke knoppen bieden een duidelijke en eenvoudige manier van bediening.
+
+Daarnaast blijkt dat fysieke knoppen in veel gevallen de voorkeur krijgen, vooral voor de interactie tussen ouders en kinderen. Fysieke knoppen bieden een duidelijke en eenvoudige manier van bediening en zorgt ervoor dat er een scherm minder moet gebruikt worden. 
+
 Er werd ook aandacht gevraagd voor ergonomie en toegankelijkheid, bijvoorbeeld door rekening te houden met zowel links- als rechtshandige kinderen. Verder werd aangeraden om een mogelijkheid te voorzien om schermen en knoppen tijdelijk uit te schakelen, zodat kinderen minder worden afgeleid en meer ruimte hebben om andere activiteiten op de tafel uit te voeren.
 
-Design requirements:
--	Het product moet fysieke knoppen hebben, waar het kan.
--	De schermen op het product moeten kunnen ingesteld worden voor links- of rechtshandige kinderen.
-- Het product moet een manier hebben om de schermen uit te zetten of weg te doen.
--	De grootte van het scherm moet minimaal zijn
+De planning moet de mogelijkheid hebben om omgedraaid te worden zodat de kinderen het altijd kunnen zien als de tafel tegen de stoel dicht is geklapt. De fysieke knoppen moeten op een vaste plaats staan en niet kunnen bewegen zodat de kinderen er niet mee kunnen spelen. De schermgrootte dat voor de planning in prototype 1 werd gebruikt is het best van grootte. De mogelijkheid om de fysieke knoppen of de planning te verwijderen is overbodig. 
 
-Uit de tests van wave twee kunnen nog een paar conclusies genomen worden. 
--	De planning moet de mogelijkheid hebben om omgedraaid te worden zodat de kinderen het ook kunnen zien als de tafel tegen de stoel dicht is geklapt. 
--	De fysieke knoppen moeten best op een vaste plaats staan en niet kunnen bewegen zodat de kinderen er niet mee kunnen spelen en dat er een mogelijkheid is om deze knoppen uit te zetten als de ouders dat willen. 
--	De schermgrootte voor de planning van prototype 1 is groot genoeg. 
--	Het kunnen verwijderen van de fysieke knoppen of de planning is overbodig. 
--	Het scherm voor de spelletjes moet de mogelijkheid hebben om eruit te kunnen genomen worden en om te draaien waardoor de oppervlakte waar de kinderen op spelen en de mogelijkheid van het scherm weg is. 
--	Door dat het scherm eruit kan genomen worden kan het zowel links als rechts geplaatst worden.
+Het moet zowel voor links-als rechtshandige kinderen gebruikt kunnen worden, om dit te kunnen voorzien. Het scherm voor de spelletjes moet de mogelijkheid hebben om eruit te kunnen genomen worden en om te draaien waardoor de oppervlakte waar de kinderen op spelen te vergroten en de mogelijkheid van het scherm weg is. 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/54d9e7b3-e469-4401-a1b3-6c8b6fb09ac9" width="50%">
-</p>
+
+Met deze conclusie werd een eerste schets van de volledige reistafel gemaakt.
+![alt text](<../img/schets na definition fase.jpg>)
+
+[Requirement](design_requirements.md)
+|ID|Design Requirement|Status|
+|:---|:---|:---:|
+|**algemeen**|
+|1.4|Het product moet gebruikt kunnen worden door zowel links- als rechtshandige kinderen.||
+|1.5|Het product moet een aan-uit knop hebben.||
+|**functionaliteit**|
+|2.4|Het product laat toe kinderen dat er door interactie naar buiten gekeken wordt.||
+|2.5|Het product laat toe de planning te kunnen draaien||
+|**vormgeving & beleving**|
+|3.2|Het product moet zoweinig mogelijk scherm hebben.||
+|3.3|Het product laat toe dat de fysieke knoppen stevig bevestigd kunnen worden.||

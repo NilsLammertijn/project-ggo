@@ -78,11 +78,11 @@ Er werd ook AI ingezet om de geschreven protocols en analayses qua vormgeving en
     
 ### Definition
 * User testing wave 1 (N=4)
-  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQB0s_4DWfQJRJRYO2y44ifrAdeGrArp2FGqGG9SvXXnxME?e=Vafhw5)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDXwxCboCmeT7Q1F0Z1FZ5fAadoVVtmj6fI1KzgULRukyk?e=rgLkp3)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQA0s36TH-BcRqcUoV6L5BbmAVYPRV7PpvblXWWcrTy6Vyo?e=tjwE5S)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDGqbV3u6EXTKZ31fz4pSUXASw-eatrck0N1P3p4iy9lr0?e=naaeLq)
 * User testing wave 2 (N=4)
-  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQAxiwArCR5gQLO2vSBqsSrUAfxrwx7yFBths7YoxMnzEPk?e=iNmwXa)
-  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQATEJAzmMSoR7gsz13dLPEmAeirwgxWSornx7Knz1WErIA?e=Gvc77c)
+  * [Protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQBwOTY-YPs5RocPrKWpzmyOAT_3n6RWwHoO8IfFhkctzaU?e=EPU3H7)
+  * [Rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leen_geenens_ugent_be/IQDjlcKoNx9nRI_dEEi9EP3AAbrubO676Pz-PecjZFWP6io?e=3kfdao)
 
  ### Development 1
  * user testing (N=3)

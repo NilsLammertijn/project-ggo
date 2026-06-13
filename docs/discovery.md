@@ -52,7 +52,7 @@ Het volledig zonder iets digitaal doen wordt moeilijk omdat de kinderen het zo g
 
 [Requirement](design_requirements.md)
 |ID|Design Requirement|Status|
-|:---|:---|:---|:---:|
+|:---|:---|:---:|
 |**algemeen**|
 |1.1|Het product moet kindvriendelijk zijn.||
 |1.2|Het product is voor 90% van de kinderen gemakkelijk te gebruiken||
