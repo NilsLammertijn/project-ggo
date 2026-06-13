@@ -1,11 +1,11 @@
-## Slimme reistafel
+## Interactieve reistafel
 Een reistafel om lange autoritten minder stressvol te maken.
 
 🛠️ Built by ``Leen Geenens`` & ``Nils Lammertijn``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*8/03/2026 van de laatste update*   
+*13/06/2026 van de laatste update*   
 
 ## Samenvatting
 Bij lange autoritten kunnen jonge kinderen zich vaak vervelen. Hierbij komt vaak de vraag: 'Hoe lang is het nog?'. Dit kan bij veel ouders stress opleveren. Hier willen we een oplossing voor vinden.
